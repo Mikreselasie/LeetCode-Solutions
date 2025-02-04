@@ -6,5 +6,6 @@ class Solution:
         for num,count in counted_list.items():
             if count > 1:
                 new_list.append(num)
+        print(new_list)
         return new_list
         
