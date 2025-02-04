@@ -14,6 +14,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Hash Table
 |  |
 | ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/Mikreselasie/LeetCode-Solutions/tree/master/0387-first-unique-character-in-a-string) |
 | [1354-find-players-with-zero-or-one-losses](https://github.com/Mikreselasie/LeetCode-Solutions/tree/master/1354-find-players-with-zero-or-one-losses) |
 ## Sorting
 |  |
@@ -22,6 +23,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Counting
 |  |
 | ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/Mikreselasie/LeetCode-Solutions/tree/master/0387-first-unique-character-in-a-string) |
 | [1354-find-players-with-zero-or-one-losses](https://github.com/Mikreselasie/LeetCode-Solutions/tree/master/1354-find-players-with-zero-or-one-losses) |
 ## Simulation
 |  |
@@ -29,4 +31,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2058-concatenation-of-array](https://github.com/Mikreselasie/LeetCode-Solutions/tree/master/2058-concatenation-of-array) |
 | [2639-separate-the-digits-in-an-array](https://github.com/Mikreselasie/LeetCode-Solutions/tree/master/2639-separate-the-digits-in-an-array) |
 | [3651-transformed-array](https://github.com/Mikreselasie/LeetCode-Solutions/tree/master/3651-transformed-array) |
+## String
+|  |
+| ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/Mikreselasie/LeetCode-Solutions/tree/master/0387-first-unique-character-in-a-string) |
+## Queue
+|  |
+| ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/Mikreselasie/LeetCode-Solutions/tree/master/0387-first-unique-character-in-a-string) |
 <!---LeetCode Topics End-->
