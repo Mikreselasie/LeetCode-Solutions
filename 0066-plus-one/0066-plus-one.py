@@ -4,6 +4,6 @@ class Solution:
         y = int(x)
         y += 1
         z = str(y)
-        print(z)
+        # print(z)
         new_list = list(map(int,list(z)))
         return new_list
