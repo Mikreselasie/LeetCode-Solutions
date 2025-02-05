@@ -15,6 +15,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0442-find-all-duplicates-in-an-array](https://github.com/Mikreselasie/LeetCode-Solutions/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/Mikreselasie/LeetCode-Solutions/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0829-subdomain-visit-count](https://github.com/Mikreselasie/LeetCode-Solutions/tree/master/0829-subdomain-visit-count) |
+| [1112-find-words-that-can-be-formed-by-characters](https://github.com/Mikreselasie/LeetCode-Solutions/tree/master/1112-find-words-that-can-be-formed-by-characters) |
 | [1354-find-players-with-zero-or-one-losses](https://github.com/Mikreselasie/LeetCode-Solutions/tree/master/1354-find-players-with-zero-or-one-losses) |
 | [1449-print-words-vertically](https://github.com/Mikreselasie/LeetCode-Solutions/tree/master/1449-print-words-vertically) |
 | [1927-maximum-ascending-subarray-sum](https://github.com/Mikreselasie/LeetCode-Solutions/tree/master/1927-maximum-ascending-subarray-sum) |
@@ -36,6 +37,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0442-find-all-duplicates-in-an-array](https://github.com/Mikreselasie/LeetCode-Solutions/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/Mikreselasie/LeetCode-Solutions/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0829-subdomain-visit-count](https://github.com/Mikreselasie/LeetCode-Solutions/tree/master/0829-subdomain-visit-count) |
+| [1112-find-words-that-can-be-formed-by-characters](https://github.com/Mikreselasie/LeetCode-Solutions/tree/master/1112-find-words-that-can-be-formed-by-characters) |
 | [1354-find-players-with-zero-or-one-losses](https://github.com/Mikreselasie/LeetCode-Solutions/tree/master/1354-find-players-with-zero-or-one-losses) |
 | [1469-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/Mikreselasie/LeetCode-Solutions/tree/master/1469-minimum-number-of-steps-to-make-two-strings-anagram) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/Mikreselasie/LeetCode-Solutions/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
@@ -58,6 +60,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0347-top-k-frequent-elements](https://github.com/Mikreselasie/LeetCode-Solutions/tree/master/0347-top-k-frequent-elements) |
 | [0387-first-unique-character-in-a-string](https://github.com/Mikreselasie/LeetCode-Solutions/tree/master/0387-first-unique-character-in-a-string) |
 | [0829-subdomain-visit-count](https://github.com/Mikreselasie/LeetCode-Solutions/tree/master/0829-subdomain-visit-count) |
+| [1112-find-words-that-can-be-formed-by-characters](https://github.com/Mikreselasie/LeetCode-Solutions/tree/master/1112-find-words-that-can-be-formed-by-characters) |
 | [1354-find-players-with-zero-or-one-losses](https://github.com/Mikreselasie/LeetCode-Solutions/tree/master/1354-find-players-with-zero-or-one-losses) |
 | [1469-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/Mikreselasie/LeetCode-Solutions/tree/master/1469-minimum-number-of-steps-to-make-two-strings-anagram) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/Mikreselasie/LeetCode-Solutions/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
@@ -77,6 +80,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0599-minimum-index-sum-of-two-lists](https://github.com/Mikreselasie/LeetCode-Solutions/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0829-subdomain-visit-count](https://github.com/Mikreselasie/LeetCode-Solutions/tree/master/0829-subdomain-visit-count) |
 | [0858-masking-personal-information](https://github.com/Mikreselasie/LeetCode-Solutions/tree/master/0858-masking-personal-information) |
+| [1112-find-words-that-can-be-formed-by-characters](https://github.com/Mikreselasie/LeetCode-Solutions/tree/master/1112-find-words-that-can-be-formed-by-characters) |
 | [1449-print-words-vertically](https://github.com/Mikreselasie/LeetCode-Solutions/tree/master/1449-print-words-vertically) |
 | [1469-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/Mikreselasie/LeetCode-Solutions/tree/master/1469-minimum-number-of-steps-to-make-two-strings-anagram) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/Mikreselasie/LeetCode-Solutions/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
