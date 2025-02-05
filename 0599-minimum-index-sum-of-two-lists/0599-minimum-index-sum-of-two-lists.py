@@ -16,5 +16,5 @@ class Solution:
         for word,count in index_dict.items():
             if count == min_no and (word in list1 and word in list2) :
                 words_list.append(word)
-        print(words_list)
+
         return words_list        
