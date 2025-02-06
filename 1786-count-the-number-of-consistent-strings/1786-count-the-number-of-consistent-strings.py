@@ -9,9 +9,8 @@ class Solution:
                 if char not in store:
                     truth = False
                     break
-                print(truth)
             if truth:
                 count += 1
-        print(store)
+
         return count
 
