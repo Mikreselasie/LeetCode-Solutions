@@ -18,6 +18,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0500-keyboard-row](https://github.com/Mikreselasie/LeetCode-Solutions/tree/master/0500-keyboard-row) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/Mikreselasie/LeetCode-Solutions/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0661-image-smoother](https://github.com/Mikreselasie/LeetCode-Solutions/tree/master/0661-image-smoother) |
+| [0722-remove-comments](https://github.com/Mikreselasie/LeetCode-Solutions/tree/master/0722-remove-comments) |
 | [0829-subdomain-visit-count](https://github.com/Mikreselasie/LeetCode-Solutions/tree/master/0829-subdomain-visit-count) |
 | [0898-transpose-matrix](https://github.com/Mikreselasie/LeetCode-Solutions/tree/master/0898-transpose-matrix) |
 | [1027-sum-of-even-numbers-after-queries](https://github.com/Mikreselasie/LeetCode-Solutions/tree/master/1027-sum-of-even-numbers-after-queries) |
@@ -104,6 +105,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0387-first-unique-character-in-a-string](https://github.com/Mikreselasie/LeetCode-Solutions/tree/master/0387-first-unique-character-in-a-string) |
 | [0500-keyboard-row](https://github.com/Mikreselasie/LeetCode-Solutions/tree/master/0500-keyboard-row) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/Mikreselasie/LeetCode-Solutions/tree/master/0599-minimum-index-sum-of-two-lists) |
+| [0722-remove-comments](https://github.com/Mikreselasie/LeetCode-Solutions/tree/master/0722-remove-comments) |
 | [0829-subdomain-visit-count](https://github.com/Mikreselasie/LeetCode-Solutions/tree/master/0829-subdomain-visit-count) |
 | [0858-masking-personal-information](https://github.com/Mikreselasie/LeetCode-Solutions/tree/master/0858-masking-personal-information) |
 | [1112-find-words-that-can-be-formed-by-characters](https://github.com/Mikreselasie/LeetCode-Solutions/tree/master/1112-find-words-that-can-be-formed-by-characters) |
