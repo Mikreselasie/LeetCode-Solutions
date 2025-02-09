@@ -1,9 +1,14 @@
 class Solution:
     def intToRoman(self, num: int) -> str:
-        to_roman_dict = {1:"I",4:"IV",5:"V",9:"IX",10:"X",40:"XL",50:"L",90:"XC",100:"C",400:"CD",500:"D",900:"CM",1000:"M"}
+        # List of tuples sorted in descending order
+        to_roman = [
+            (1000, "M"), (900, "CM"), (500, "D"), (400, "CD"),
+            (100, "C"), (90, "XC"), (50, "L"), (40, "XL"),
+            (10, "X"), (9, "IX"), (5, "V"), (4, "IV"), (1, "I")
+        ]
         my_str = ""
-        for integer,roman in reversed(to_roman_dict.items()):
-            num1 = num//integer
-            num = num % integer
-            my_str += roman * num1
+        for integer, roman in to_roman:
+            if num >= integer:
+                my_str += roman * (num // integer)
+                num %= integer
         return my_str
