@@ -19,6 +19,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0599-minimum-index-sum-of-two-lists](https://github.com/Mikreselasie/LeetCode-Solutions/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0661-image-smoother](https://github.com/Mikreselasie/LeetCode-Solutions/tree/master/0661-image-smoother) |
 | [0722-remove-comments](https://github.com/Mikreselasie/LeetCode-Solutions/tree/master/0722-remove-comments) |
+| [0797-rabbits-in-forest](https://github.com/Mikreselasie/LeetCode-Solutions/tree/master/0797-rabbits-in-forest) |
 | [0829-subdomain-visit-count](https://github.com/Mikreselasie/LeetCode-Solutions/tree/master/0829-subdomain-visit-count) |
 | [0898-transpose-matrix](https://github.com/Mikreselasie/LeetCode-Solutions/tree/master/0898-transpose-matrix) |
 | [1027-sum-of-even-numbers-after-queries](https://github.com/Mikreselasie/LeetCode-Solutions/tree/master/1027-sum-of-even-numbers-after-queries) |
@@ -54,6 +55,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0442-find-all-duplicates-in-an-array](https://github.com/Mikreselasie/LeetCode-Solutions/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0500-keyboard-row](https://github.com/Mikreselasie/LeetCode-Solutions/tree/master/0500-keyboard-row) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/Mikreselasie/LeetCode-Solutions/tree/master/0599-minimum-index-sum-of-two-lists) |
+| [0797-rabbits-in-forest](https://github.com/Mikreselasie/LeetCode-Solutions/tree/master/0797-rabbits-in-forest) |
 | [0829-subdomain-visit-count](https://github.com/Mikreselasie/LeetCode-Solutions/tree/master/0829-subdomain-visit-count) |
 | [1112-find-words-that-can-be-formed-by-characters](https://github.com/Mikreselasie/LeetCode-Solutions/tree/master/1112-find-words-that-can-be-formed-by-characters) |
 | [1354-find-players-with-zero-or-one-losses](https://github.com/Mikreselasie/LeetCode-Solutions/tree/master/1354-find-players-with-zero-or-one-losses) |
@@ -152,6 +154,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0048-rotate-image](https://github.com/Mikreselasie/LeetCode-Solutions/tree/master/0048-rotate-image) |
 | [0066-plus-one](https://github.com/Mikreselasie/LeetCode-Solutions/tree/master/0066-plus-one) |
 | [0168-excel-sheet-column-title](https://github.com/Mikreselasie/LeetCode-Solutions/tree/master/0168-excel-sheet-column-title) |
+| [0797-rabbits-in-forest](https://github.com/Mikreselasie/LeetCode-Solutions/tree/master/0797-rabbits-in-forest) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/Mikreselasie/LeetCode-Solutions/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/Mikreselasie/LeetCode-Solutions/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 ## Bit Manipulation
@@ -183,4 +186,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [2434-design-a-number-container-system](https://github.com/Mikreselasie/LeetCode-Solutions/tree/master/2434-design-a-number-container-system) |
+## Greedy
+|  |
+| ------- |
+| [0797-rabbits-in-forest](https://github.com/Mikreselasie/LeetCode-Solutions/tree/master/0797-rabbits-in-forest) |
 <!---LeetCode Topics End-->
