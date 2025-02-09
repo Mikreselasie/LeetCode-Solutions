@@ -36,6 +36,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2048-build-array-from-permutation](https://github.com/Mikreselasie/LeetCode-Solutions/tree/master/2048-build-array-from-permutation) |
 | [2058-concatenation-of-array](https://github.com/Mikreselasie/LeetCode-Solutions/tree/master/2058-concatenation-of-array) |
 | [2421-maximum-number-of-pairs-in-array](https://github.com/Mikreselasie/LeetCode-Solutions/tree/master/2421-maximum-number-of-pairs-in-array) |
+| [2448-count-number-of-bad-pairs](https://github.com/Mikreselasie/LeetCode-Solutions/tree/master/2448-count-number-of-bad-pairs) |
 | [2551-apply-operations-to-an-array](https://github.com/Mikreselasie/LeetCode-Solutions/tree/master/2551-apply-operations-to-an-array) |
 | [2639-separate-the-digits-in-an-array](https://github.com/Mikreselasie/LeetCode-Solutions/tree/master/2639-separate-the-digits-in-an-array) |
 | [3372-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/Mikreselasie/LeetCode-Solutions/tree/master/3372-longest-strictly-increasing-or-strictly-decreasing-subarray) |
@@ -66,6 +67,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2053-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/Mikreselasie/LeetCode-Solutions/tree/master/2053-check-if-all-characters-have-equal-number-of-occurrences) |
 | [2421-maximum-number-of-pairs-in-array](https://github.com/Mikreselasie/LeetCode-Solutions/tree/master/2421-maximum-number-of-pairs-in-array) |
 | [2434-design-a-number-container-system](https://github.com/Mikreselasie/LeetCode-Solutions/tree/master/2434-design-a-number-container-system) |
+| [2448-count-number-of-bad-pairs](https://github.com/Mikreselasie/LeetCode-Solutions/tree/master/2448-count-number-of-bad-pairs) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/Mikreselasie/LeetCode-Solutions/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 ## Sorting
 |  |
@@ -93,6 +95,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/Mikreselasie/LeetCode-Solutions/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [2053-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/Mikreselasie/LeetCode-Solutions/tree/master/2053-check-if-all-characters-have-equal-number-of-occurrences) |
 | [2421-maximum-number-of-pairs-in-array](https://github.com/Mikreselasie/LeetCode-Solutions/tree/master/2421-maximum-number-of-pairs-in-array) |
+| [2448-count-number-of-bad-pairs](https://github.com/Mikreselasie/LeetCode-Solutions/tree/master/2448-count-number-of-bad-pairs) |
 ## Simulation
 |  |
 | ------- |
@@ -156,6 +159,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0168-excel-sheet-column-title](https://github.com/Mikreselasie/LeetCode-Solutions/tree/master/0168-excel-sheet-column-title) |
 | [0797-rabbits-in-forest](https://github.com/Mikreselasie/LeetCode-Solutions/tree/master/0797-rabbits-in-forest) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/Mikreselasie/LeetCode-Solutions/tree/master/1951-find-the-winner-of-the-circular-game) |
+| [2448-count-number-of-bad-pairs](https://github.com/Mikreselasie/LeetCode-Solutions/tree/master/2448-count-number-of-bad-pairs) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/Mikreselasie/LeetCode-Solutions/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 ## Bit Manipulation
 |  |
