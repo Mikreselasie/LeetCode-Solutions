@@ -40,6 +40,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2058-concatenation-of-array](https://github.com/Mikreselasie/LeetCode-Solutions/tree/master/2058-concatenation-of-array) |
 | [2421-maximum-number-of-pairs-in-array](https://github.com/Mikreselasie/LeetCode-Solutions/tree/master/2421-maximum-number-of-pairs-in-array) |
 | [2448-count-number-of-bad-pairs](https://github.com/Mikreselasie/LeetCode-Solutions/tree/master/2448-count-number-of-bad-pairs) |
+| [2502-sort-the-people](https://github.com/Mikreselasie/LeetCode-Solutions/tree/master/2502-sort-the-people) |
 | [2551-apply-operations-to-an-array](https://github.com/Mikreselasie/LeetCode-Solutions/tree/master/2551-apply-operations-to-an-array) |
 | [2639-separate-the-digits-in-an-array](https://github.com/Mikreselasie/LeetCode-Solutions/tree/master/2639-separate-the-digits-in-an-array) |
 | [3372-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/Mikreselasie/LeetCode-Solutions/tree/master/3372-longest-strictly-increasing-or-strictly-decreasing-subarray) |
@@ -73,6 +74,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2421-maximum-number-of-pairs-in-array](https://github.com/Mikreselasie/LeetCode-Solutions/tree/master/2421-maximum-number-of-pairs-in-array) |
 | [2434-design-a-number-container-system](https://github.com/Mikreselasie/LeetCode-Solutions/tree/master/2434-design-a-number-container-system) |
 | [2448-count-number-of-bad-pairs](https://github.com/Mikreselasie/LeetCode-Solutions/tree/master/2448-count-number-of-bad-pairs) |
+| [2502-sort-the-people](https://github.com/Mikreselasie/LeetCode-Solutions/tree/master/2502-sort-the-people) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/Mikreselasie/LeetCode-Solutions/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 ## Sorting
 |  |
@@ -88,6 +90,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0451-sort-characters-by-frequency](https://github.com/Mikreselasie/LeetCode-Solutions/tree/master/0451-sort-characters-by-frequency) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Mikreselasie/LeetCode-Solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [1354-find-players-with-zero-or-one-losses](https://github.com/Mikreselasie/LeetCode-Solutions/tree/master/1354-find-players-with-zero-or-one-losses) |
+| [2502-sort-the-people](https://github.com/Mikreselasie/LeetCode-Solutions/tree/master/2502-sort-the-people) |
 ## Counting
 |  |
 | ------- |
@@ -144,6 +147,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/Mikreselasie/LeetCode-Solutions/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/Mikreselasie/LeetCode-Solutions/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2053-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/Mikreselasie/LeetCode-Solutions/tree/master/2053-check-if-all-characters-have-equal-number-of-occurrences) |
+| [2502-sort-the-people](https://github.com/Mikreselasie/LeetCode-Solutions/tree/master/2502-sort-the-people) |
 | [3447-clear-digits](https://github.com/Mikreselasie/LeetCode-Solutions/tree/master/3447-clear-digits) |
 ## Queue
 |  |
