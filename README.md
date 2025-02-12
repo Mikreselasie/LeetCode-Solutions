@@ -208,6 +208,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0168-excel-sheet-column-title](https://github.com/Mikreselasie/LeetCode-Solutions/tree/master/0168-excel-sheet-column-title) |
 | [0263-ugly-number](https://github.com/Mikreselasie/LeetCode-Solutions/tree/master/0263-ugly-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Mikreselasie/LeetCode-Solutions/tree/master/0628-maximum-product-of-three-numbers) |
+| [0633-sum-of-square-numbers](https://github.com/Mikreselasie/LeetCode-Solutions/tree/master/0633-sum-of-square-numbers) |
 | [0797-rabbits-in-forest](https://github.com/Mikreselasie/LeetCode-Solutions/tree/master/0797-rabbits-in-forest) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/Mikreselasie/LeetCode-Solutions/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2448-count-number-of-bad-pairs](https://github.com/Mikreselasie/LeetCode-Solutions/tree/master/2448-count-number-of-bad-pairs) |
@@ -224,6 +225,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Mikreselasie/LeetCode-Solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0283-move-zeroes](https://github.com/Mikreselasie/LeetCode-Solutions/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/Mikreselasie/LeetCode-Solutions/tree/master/0344-reverse-string) |
+| [0633-sum-of-square-numbers](https://github.com/Mikreselasie/LeetCode-Solutions/tree/master/0633-sum-of-square-numbers) |
 | [0917-boats-to-save-people](https://github.com/Mikreselasie/LeetCode-Solutions/tree/master/0917-boats-to-save-people) |
 | [2551-apply-operations-to-an-array](https://github.com/Mikreselasie/LeetCode-Solutions/tree/master/2551-apply-operations-to-an-array) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/Mikreselasie/LeetCode-Solutions/tree/master/2581-divide-players-into-teams-of-equal-skill) |
@@ -264,6 +266,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Mikreselasie/LeetCode-Solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0633-sum-of-square-numbers](https://github.com/Mikreselasie/LeetCode-Solutions/tree/master/0633-sum-of-square-numbers) |
 | [2210-find-target-indices-after-sorting-array](https://github.com/Mikreselasie/LeetCode-Solutions/tree/master/2210-find-target-indices-after-sorting-array) |
 ## Merge Sort
 |  |
