@@ -5,7 +5,6 @@ class Solution:
         temp_sum = sum(nums[left:right+1])
         max_average = temp_sum / k
         while right < len(nums)-1:
-            print(left, right, temp_sum)
             temp_sum = temp_sum + nums[right+1] - nums[left]
             right += 1
             left += 1
