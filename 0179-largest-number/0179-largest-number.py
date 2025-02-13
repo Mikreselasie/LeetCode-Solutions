@@ -1,11 +1,9 @@
 class Solution:
     def largestNumber(self, nums: List[int]) -> str:
-        def compare(x, y):
-            return (int(y + x) - int(x + y))
+        
+        for i in range(len(nums)):
+            for j in range(1,len(nums)-i):
+                if str(nums[j]) + str(nums[j-1]) > str(nums[j-1]) + str(nums[j]):
+                    nums[j],nums[j-1] = nums[j-1],nums[j]
 
-# Convert all numbers to strings and sort using the custom comparator
-        sorted_nums = sorted(map(str, nums), key=cmp_to_key(compare))
-
-        # Join the sorted list and handle leading zeros
-        result = ''.join(sorted_nums).lstrip('0') or '0'
-        return result
+        return str(int("".join(str(num) for num in nums)))
