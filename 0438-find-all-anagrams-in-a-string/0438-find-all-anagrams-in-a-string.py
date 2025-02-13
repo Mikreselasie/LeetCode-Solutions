@@ -9,7 +9,6 @@ class Solution:
         if temp_count == p_count:
             answer.append(left)
         for i in range(right,len(s)):
-            print("LOOP:",i-right+1,temp_count)
             temp_count[s[i]] = temp_count.get(s[i],0) + 1
 
             temp_count[s[left]] -= 1
