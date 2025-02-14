@@ -40,6 +40,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1364-tuple-with-same-product](https://github.com/Mikreselasie/LeetCode-Solutions/tree/master/1364-tuple-with-same-product) |
 | [1449-print-words-vertically](https://github.com/Mikreselasie/LeetCode-Solutions/tree/master/1449-print-words-vertically) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Mikreselasie/LeetCode-Solutions/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
+| [1538-maximum-points-you-can-obtain-from-cards](https://github.com/Mikreselasie/LeetCode-Solutions/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 | [1651-shuffle-string](https://github.com/Mikreselasie/LeetCode-Solutions/tree/master/1651-shuffle-string) |
 | [1683-maximum-number-of-coins-you-can-get](https://github.com/Mikreselasie/LeetCode-Solutions/tree/master/1683-maximum-number-of-coins-you-can-get) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/Mikreselasie/LeetCode-Solutions/tree/master/1786-count-the-number-of-consistent-strings) |
@@ -336,4 +337,9 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0438-find-all-anagrams-in-a-string](https://github.com/Mikreselasie/LeetCode-Solutions/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0567-permutation-in-string](https://github.com/Mikreselasie/LeetCode-Solutions/tree/master/0567-permutation-in-string) |
 | [0643-maximum-average-subarray-i](https://github.com/Mikreselasie/LeetCode-Solutions/tree/master/0643-maximum-average-subarray-i) |
+| [1538-maximum-points-you-can-obtain-from-cards](https://github.com/Mikreselasie/LeetCode-Solutions/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
+## Prefix Sum
+|  |
+| ------- |
+| [1538-maximum-points-you-can-obtain-from-cards](https://github.com/Mikreselasie/LeetCode-Solutions/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 <!---LeetCode Topics End-->
