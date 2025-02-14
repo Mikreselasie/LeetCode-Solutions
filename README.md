@@ -8,6 +8,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0001-two-sum](https://github.com/Mikreselasie/LeetCode-Solutions/tree/master/0001-two-sum) |
 | [0011-container-with-most-water](https://github.com/Mikreselasie/LeetCode-Solutions/tree/master/0011-container-with-most-water) |
+| [0016-3sum-closest](https://github.com/Mikreselasie/LeetCode-Solutions/tree/master/0016-3sum-closest) |
 | [0048-rotate-image](https://github.com/Mikreselasie/LeetCode-Solutions/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/Mikreselasie/LeetCode-Solutions/tree/master/0049-group-anagrams) |
 | [0066-plus-one](https://github.com/Mikreselasie/LeetCode-Solutions/tree/master/0066-plus-one) |
@@ -104,6 +105,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Sorting
 |  |
 | ------- |
+| [0016-3sum-closest](https://github.com/Mikreselasie/LeetCode-Solutions/tree/master/0016-3sum-closest) |
 | [0049-group-anagrams](https://github.com/Mikreselasie/LeetCode-Solutions/tree/master/0049-group-anagrams) |
 | [0075-sort-colors](https://github.com/Mikreselasie/LeetCode-Solutions/tree/master/0075-sort-colors) |
 | [0169-majority-element](https://github.com/Mikreselasie/LeetCode-Solutions/tree/master/0169-majority-element) |
@@ -247,6 +249,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/Mikreselasie/LeetCode-Solutions/tree/master/0011-container-with-most-water) |
+| [0016-3sum-closest](https://github.com/Mikreselasie/LeetCode-Solutions/tree/master/0016-3sum-closest) |
 | [0075-sort-colors](https://github.com/Mikreselasie/LeetCode-Solutions/tree/master/0075-sort-colors) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Mikreselasie/LeetCode-Solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/Mikreselasie/LeetCode-Solutions/tree/master/0189-rotate-array) |
