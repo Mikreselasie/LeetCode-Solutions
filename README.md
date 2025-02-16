@@ -34,6 +34,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0898-transpose-matrix](https://github.com/Mikreselasie/LeetCode-Solutions/tree/master/0898-transpose-matrix) |
 | [0917-boats-to-save-people](https://github.com/Mikreselasie/LeetCode-Solutions/tree/master/0917-boats-to-save-people) |
 | [0948-sort-an-array](https://github.com/Mikreselasie/LeetCode-Solutions/tree/master/0948-sort-an-array) |
+| [1009-pancake-sorting](https://github.com/Mikreselasie/LeetCode-Solutions/tree/master/1009-pancake-sorting) |
 | [1027-sum-of-even-numbers-after-queries](https://github.com/Mikreselasie/LeetCode-Solutions/tree/master/1027-sum-of-even-numbers-after-queries) |
 | [1046-max-consecutive-ones-iii](https://github.com/Mikreselasie/LeetCode-Solutions/tree/master/1046-max-consecutive-ones-iii) |
 | [1112-find-words-that-can-be-formed-by-characters](https://github.com/Mikreselasie/LeetCode-Solutions/tree/master/1112-find-words-that-can-be-formed-by-characters) |
@@ -122,6 +123,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0628-maximum-product-of-three-numbers](https://github.com/Mikreselasie/LeetCode-Solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [0917-boats-to-save-people](https://github.com/Mikreselasie/LeetCode-Solutions/tree/master/0917-boats-to-save-people) |
 | [0948-sort-an-array](https://github.com/Mikreselasie/LeetCode-Solutions/tree/master/0948-sort-an-array) |
+| [1009-pancake-sorting](https://github.com/Mikreselasie/LeetCode-Solutions/tree/master/1009-pancake-sorting) |
 | [1354-find-players-with-zero-or-one-losses](https://github.com/Mikreselasie/LeetCode-Solutions/tree/master/1354-find-players-with-zero-or-one-losses) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Mikreselasie/LeetCode-Solutions/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1683-maximum-number-of-coins-you-can-get](https://github.com/Mikreselasie/LeetCode-Solutions/tree/master/1683-maximum-number-of-coins-you-can-get) |
@@ -267,6 +269,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0680-valid-palindrome-ii](https://github.com/Mikreselasie/LeetCode-Solutions/tree/master/0680-valid-palindrome-ii) |
 | [0768-partition-labels](https://github.com/Mikreselasie/LeetCode-Solutions/tree/master/0768-partition-labels) |
 | [0917-boats-to-save-people](https://github.com/Mikreselasie/LeetCode-Solutions/tree/master/0917-boats-to-save-people) |
+| [1009-pancake-sorting](https://github.com/Mikreselasie/LeetCode-Solutions/tree/master/1009-pancake-sorting) |
 | [2551-apply-operations-to-an-array](https://github.com/Mikreselasie/LeetCode-Solutions/tree/master/2551-apply-operations-to-an-array) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/Mikreselasie/LeetCode-Solutions/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 | [3195-separate-black-and-white-balls](https://github.com/Mikreselasie/LeetCode-Solutions/tree/master/3195-separate-black-and-white-balls) |
@@ -302,6 +305,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0768-partition-labels](https://github.com/Mikreselasie/LeetCode-Solutions/tree/master/0768-partition-labels) |
 | [0797-rabbits-in-forest](https://github.com/Mikreselasie/LeetCode-Solutions/tree/master/0797-rabbits-in-forest) |
 | [0917-boats-to-save-people](https://github.com/Mikreselasie/LeetCode-Solutions/tree/master/0917-boats-to-save-people) |
+| [1009-pancake-sorting](https://github.com/Mikreselasie/LeetCode-Solutions/tree/master/1009-pancake-sorting) |
 | [1683-maximum-number-of-coins-you-can-get](https://github.com/Mikreselasie/LeetCode-Solutions/tree/master/1683-maximum-number-of-coins-you-can-get) |
 | [1961-maximum-ice-cream-bars](https://github.com/Mikreselasie/LeetCode-Solutions/tree/master/1961-maximum-ice-cream-bars) |
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/Mikreselasie/LeetCode-Solutions/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
