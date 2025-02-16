@@ -35,6 +35,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0917-boats-to-save-people](https://github.com/Mikreselasie/LeetCode-Solutions/tree/master/0917-boats-to-save-people) |
 | [0948-sort-an-array](https://github.com/Mikreselasie/LeetCode-Solutions/tree/master/0948-sort-an-array) |
 | [1027-sum-of-even-numbers-after-queries](https://github.com/Mikreselasie/LeetCode-Solutions/tree/master/1027-sum-of-even-numbers-after-queries) |
+| [1046-max-consecutive-ones-iii](https://github.com/Mikreselasie/LeetCode-Solutions/tree/master/1046-max-consecutive-ones-iii) |
 | [1112-find-words-that-can-be-formed-by-characters](https://github.com/Mikreselasie/LeetCode-Solutions/tree/master/1112-find-words-that-can-be-formed-by-characters) |
 | [1354-find-players-with-zero-or-one-losses](https://github.com/Mikreselasie/LeetCode-Solutions/tree/master/1354-find-players-with-zero-or-one-losses) |
 | [1364-tuple-with-same-product](https://github.com/Mikreselasie/LeetCode-Solutions/tree/master/1364-tuple-with-same-product) |
@@ -315,6 +316,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Mikreselasie/LeetCode-Solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0633-sum-of-square-numbers](https://github.com/Mikreselasie/LeetCode-Solutions/tree/master/0633-sum-of-square-numbers) |
+| [1046-max-consecutive-ones-iii](https://github.com/Mikreselasie/LeetCode-Solutions/tree/master/1046-max-consecutive-ones-iii) |
 | [2210-find-target-indices-after-sorting-array](https://github.com/Mikreselasie/LeetCode-Solutions/tree/master/2210-find-target-indices-after-sorting-array) |
 ## Merge Sort
 |  |
@@ -342,10 +344,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0438-find-all-anagrams-in-a-string](https://github.com/Mikreselasie/LeetCode-Solutions/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0567-permutation-in-string](https://github.com/Mikreselasie/LeetCode-Solutions/tree/master/0567-permutation-in-string) |
 | [0643-maximum-average-subarray-i](https://github.com/Mikreselasie/LeetCode-Solutions/tree/master/0643-maximum-average-subarray-i) |
+| [1046-max-consecutive-ones-iii](https://github.com/Mikreselasie/LeetCode-Solutions/tree/master/1046-max-consecutive-ones-iii) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/Mikreselasie/LeetCode-Solutions/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 ## Prefix Sum
 |  |
 | ------- |
+| [1046-max-consecutive-ones-iii](https://github.com/Mikreselasie/LeetCode-Solutions/tree/master/1046-max-consecutive-ones-iii) |
 | [1477-product-of-the-last-k-numbers](https://github.com/Mikreselasie/LeetCode-Solutions/tree/master/1477-product-of-the-last-k-numbers) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/Mikreselasie/LeetCode-Solutions/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 ## Data Stream
