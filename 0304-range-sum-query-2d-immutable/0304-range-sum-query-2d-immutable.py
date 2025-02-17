@@ -13,7 +13,6 @@ class NumMatrix:
                 self.prefix_matrix[row][col] = running_row_sum
                 if row > 0:
                     self.prefix_matrix[row][col] += self.prefix_matrix[row - 1][col]
-        print(self.prefix_matrix)
 
     def sumRegion(self, row1: int, col1: int, row2: int, col2: int) -> int:
         total = self.prefix_matrix[row2][col2]
