@@ -42,6 +42,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0917-boats-to-save-people](https://github.com/Mikreselasie/LeetCode-Solutions/tree/master/0917-boats-to-save-people) |
 | [0948-sort-an-array](https://github.com/Mikreselasie/LeetCode-Solutions/tree/master/0948-sort-an-array) |
 | [1009-pancake-sorting](https://github.com/Mikreselasie/LeetCode-Solutions/tree/master/1009-pancake-sorting) |
+| [1016-subarray-sums-divisible-by-k](https://github.com/Mikreselasie/LeetCode-Solutions/tree/master/1016-subarray-sums-divisible-by-k) |
 | [1027-sum-of-even-numbers-after-queries](https://github.com/Mikreselasie/LeetCode-Solutions/tree/master/1027-sum-of-even-numbers-after-queries) |
 | [1046-max-consecutive-ones-iii](https://github.com/Mikreselasie/LeetCode-Solutions/tree/master/1046-max-consecutive-ones-iii) |
 | [1112-find-words-that-can-be-formed-by-characters](https://github.com/Mikreselasie/LeetCode-Solutions/tree/master/1112-find-words-that-can-be-formed-by-characters) |
@@ -103,6 +104,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0768-partition-labels](https://github.com/Mikreselasie/LeetCode-Solutions/tree/master/0768-partition-labels) |
 | [0797-rabbits-in-forest](https://github.com/Mikreselasie/LeetCode-Solutions/tree/master/0797-rabbits-in-forest) |
 | [0829-subdomain-visit-count](https://github.com/Mikreselasie/LeetCode-Solutions/tree/master/0829-subdomain-visit-count) |
+| [1016-subarray-sums-divisible-by-k](https://github.com/Mikreselasie/LeetCode-Solutions/tree/master/1016-subarray-sums-divisible-by-k) |
 | [1112-find-words-that-can-be-formed-by-characters](https://github.com/Mikreselasie/LeetCode-Solutions/tree/master/1112-find-words-that-can-be-formed-by-characters) |
 | [1160-letter-tile-possibilities](https://github.com/Mikreselasie/LeetCode-Solutions/tree/master/1160-letter-tile-possibilities) |
 | [1354-find-players-with-zero-or-one-losses](https://github.com/Mikreselasie/LeetCode-Solutions/tree/master/1354-find-players-with-zero-or-one-losses) |
@@ -380,6 +382,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0304-range-sum-query-2d-immutable](https://github.com/Mikreselasie/LeetCode-Solutions/tree/master/0304-range-sum-query-2d-immutable) |
 | [0560-subarray-sum-equals-k](https://github.com/Mikreselasie/LeetCode-Solutions/tree/master/0560-subarray-sum-equals-k) |
 | [0724-find-pivot-index](https://github.com/Mikreselasie/LeetCode-Solutions/tree/master/0724-find-pivot-index) |
+| [1016-subarray-sums-divisible-by-k](https://github.com/Mikreselasie/LeetCode-Solutions/tree/master/1016-subarray-sums-divisible-by-k) |
 | [1046-max-consecutive-ones-iii](https://github.com/Mikreselasie/LeetCode-Solutions/tree/master/1046-max-consecutive-ones-iii) |
 | [1477-product-of-the-last-k-numbers](https://github.com/Mikreselasie/LeetCode-Solutions/tree/master/1477-product-of-the-last-k-numbers) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/Mikreselasie/LeetCode-Solutions/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
