@@ -3,17 +3,16 @@ from collections import defaultdict
 
 class Solution:
     def subarraySum(self, nums: List[int], k: int) -> int:
-        prefix_sum = 0
-        prefix_count = defaultdict(int)  
-        prefix_count[0] = 1  
-        count = 0
+        res = 0 
+        prefix_dict = defaultdict(int)
+        prefix_dict[0] = 1
+        prefix = 0
 
-        for num in nums:
-            prefix_sum += num  
+        for idx in range(len(nums)):
+            prefix += nums[idx]
             
-            if (prefix_sum - k) in prefix_count:
-                count += prefix_count[prefix_sum - k] 
-
-            prefix_count[prefix_sum] += 1
-
-        return count
+            diff = prefix - k
+            res += prefix_dict.get(diff,0)
+            prefix_dict[prefix] = 1 + prefix_dict.get(prefix,0)
+    
+        return res
