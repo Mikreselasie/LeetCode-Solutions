@@ -218,6 +218,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/Mikreselasie/LeetCode-Solutions/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/Mikreselasie/LeetCode-Solutions/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2053-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/Mikreselasie/LeetCode-Solutions/tree/master/2053-check-if-all-characters-have-equal-number-of-occurrences) |
+| [2456-construct-smallest-number-from-di-string](https://github.com/Mikreselasie/LeetCode-Solutions/tree/master/2456-construct-smallest-number-from-di-string) |
 | [2465-shifting-letters-ii](https://github.com/Mikreselasie/LeetCode-Solutions/tree/master/2465-shifting-letters-ii) |
 | [2502-sort-the-people](https://github.com/Mikreselasie/LeetCode-Solutions/tree/master/2502-sort-the-people) |
 | [3195-separate-black-and-white-balls](https://github.com/Mikreselasie/LeetCode-Solutions/tree/master/3195-separate-black-and-white-balls) |
@@ -337,11 +338,13 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1683-maximum-number-of-coins-you-can-get](https://github.com/Mikreselasie/LeetCode-Solutions/tree/master/1683-maximum-number-of-coins-you-can-get) |
 | [1961-maximum-ice-cream-bars](https://github.com/Mikreselasie/LeetCode-Solutions/tree/master/1961-maximum-ice-cream-bars) |
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/Mikreselasie/LeetCode-Solutions/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
+| [2456-construct-smallest-number-from-di-string](https://github.com/Mikreselasie/LeetCode-Solutions/tree/master/2456-construct-smallest-number-from-di-string) |
 | [3195-separate-black-and-white-balls](https://github.com/Mikreselasie/LeetCode-Solutions/tree/master/3195-separate-black-and-white-balls) |
 ## Stack
 |  |
 | ------- |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/Mikreselasie/LeetCode-Solutions/tree/master/2021-remove-all-occurrences-of-a-substring) |
+| [2456-construct-smallest-number-from-di-string](https://github.com/Mikreselasie/LeetCode-Solutions/tree/master/2456-construct-smallest-number-from-di-string) |
 | [3447-clear-digits](https://github.com/Mikreselasie/LeetCode-Solutions/tree/master/3447-clear-digits) |
 ## Binary Search
 |  |
@@ -401,6 +404,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [1160-letter-tile-possibilities](https://github.com/Mikreselasie/LeetCode-Solutions/tree/master/1160-letter-tile-possibilities) |
 | [1819-construct-the-lexicographically-largest-valid-sequence](https://github.com/Mikreselasie/LeetCode-Solutions/tree/master/1819-construct-the-lexicographically-largest-valid-sequence) |
+| [2456-construct-smallest-number-from-di-string](https://github.com/Mikreselasie/LeetCode-Solutions/tree/master/2456-construct-smallest-number-from-di-string) |
 | [2802-find-the-punishment-number-of-an-integer](https://github.com/Mikreselasie/LeetCode-Solutions/tree/master/2802-find-the-punishment-number-of-an-integer) |
 ## Randomized
 |  |
