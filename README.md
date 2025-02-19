@@ -305,6 +305,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0203-remove-linked-list-elements](https://github.com/Mikreselasie/LeetCode-Solutions/tree/master/0203-remove-linked-list-elements) |
+| [0206-reverse-linked-list](https://github.com/Mikreselasie/LeetCode-Solutions/tree/master/0206-reverse-linked-list) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/Mikreselasie/LeetCode-Solutions/tree/master/1951-find-the-winner-of-the-circular-game) |
 ## Matrix
 |  |
@@ -430,6 +431,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Mikreselasie/LeetCode-Solutions/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0203-remove-linked-list-elements](https://github.com/Mikreselasie/LeetCode-Solutions/tree/master/0203-remove-linked-list-elements) |
+| [0206-reverse-linked-list](https://github.com/Mikreselasie/LeetCode-Solutions/tree/master/0206-reverse-linked-list) |
 | [0838-design-linked-list](https://github.com/Mikreselasie/LeetCode-Solutions/tree/master/0838-design-linked-list) |
 | [0908-middle-of-the-linked-list](https://github.com/Mikreselasie/LeetCode-Solutions/tree/master/0908-middle-of-the-linked-list) |
 <!---LeetCode Topics End-->
