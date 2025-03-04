@@ -30,6 +30,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0347-top-k-frequent-elements](https://github.com/Mikreselasie/LeetCode-Solutions/tree/master/0347-top-k-frequent-elements) |
 | [0380-insert-delete-getrandom-o1](https://github.com/Mikreselasie/LeetCode-Solutions/tree/master/0380-insert-delete-getrandom-o1) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Mikreselasie/LeetCode-Solutions/tree/master/0442-find-all-duplicates-in-an-array) |
+| [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/Mikreselasie/LeetCode-Solutions/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0498-diagonal-traverse](https://github.com/Mikreselasie/LeetCode-Solutions/tree/master/0498-diagonal-traverse) |
 | [0500-keyboard-row](https://github.com/Mikreselasie/LeetCode-Solutions/tree/master/0500-keyboard-row) |
 | [0560-subarray-sum-equals-k](https://github.com/Mikreselasie/LeetCode-Solutions/tree/master/0560-subarray-sum-equals-k) |
@@ -149,6 +150,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0242-valid-anagram](https://github.com/Mikreselasie/LeetCode-Solutions/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/Mikreselasie/LeetCode-Solutions/tree/master/0347-top-k-frequent-elements) |
 | [0451-sort-characters-by-frequency](https://github.com/Mikreselasie/LeetCode-Solutions/tree/master/0451-sort-characters-by-frequency) |
+| [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/Mikreselasie/LeetCode-Solutions/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Mikreselasie/LeetCode-Solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [0917-boats-to-save-people](https://github.com/Mikreselasie/LeetCode-Solutions/tree/master/0917-boats-to-save-people) |
 | [0948-sort-an-array](https://github.com/Mikreselasie/LeetCode-Solutions/tree/master/0948-sort-an-array) |
@@ -365,6 +367,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0011-container-with-most-water](https://github.com/Mikreselasie/LeetCode-Solutions/tree/master/0011-container-with-most-water) |
 | [0134-gas-station](https://github.com/Mikreselasie/LeetCode-Solutions/tree/master/0134-gas-station) |
 | [0179-largest-number](https://github.com/Mikreselasie/LeetCode-Solutions/tree/master/0179-largest-number) |
+| [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/Mikreselasie/LeetCode-Solutions/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0680-valid-palindrome-ii](https://github.com/Mikreselasie/LeetCode-Solutions/tree/master/0680-valid-palindrome-ii) |
 | [0768-partition-labels](https://github.com/Mikreselasie/LeetCode-Solutions/tree/master/0768-partition-labels) |
 | [0797-rabbits-in-forest](https://github.com/Mikreselasie/LeetCode-Solutions/tree/master/0797-rabbits-in-forest) |
