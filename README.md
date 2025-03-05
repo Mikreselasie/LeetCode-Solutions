@@ -199,6 +199,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/Mikreselasie/LeetCode-Solutions/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2048-build-array-from-permutation](https://github.com/Mikreselasie/LeetCode-Solutions/tree/master/2048-build-array-from-permutation) |
 | [2058-concatenation-of-array](https://github.com/Mikreselasie/LeetCode-Solutions/tree/master/2058-concatenation-of-array) |
+| [2470-removing-stars-from-a-string](https://github.com/Mikreselasie/LeetCode-Solutions/tree/master/2470-removing-stars-from-a-string) |
 | [2551-apply-operations-to-an-array](https://github.com/Mikreselasie/LeetCode-Solutions/tree/master/2551-apply-operations-to-an-array) |
 | [2639-separate-the-digits-in-an-array](https://github.com/Mikreselasie/LeetCode-Solutions/tree/master/2639-separate-the-digits-in-an-array) |
 | [3332-minimum-operations-to-exceed-threshold-value-ii](https://github.com/Mikreselasie/LeetCode-Solutions/tree/master/3332-minimum-operations-to-exceed-threshold-value-ii) |
@@ -241,6 +242,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2053-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/Mikreselasie/LeetCode-Solutions/tree/master/2053-check-if-all-characters-have-equal-number-of-occurrences) |
 | [2456-construct-smallest-number-from-di-string](https://github.com/Mikreselasie/LeetCode-Solutions/tree/master/2456-construct-smallest-number-from-di-string) |
 | [2465-shifting-letters-ii](https://github.com/Mikreselasie/LeetCode-Solutions/tree/master/2465-shifting-letters-ii) |
+| [2470-removing-stars-from-a-string](https://github.com/Mikreselasie/LeetCode-Solutions/tree/master/2470-removing-stars-from-a-string) |
 | [2502-sort-the-people](https://github.com/Mikreselasie/LeetCode-Solutions/tree/master/2502-sort-the-people) |
 | [3195-separate-black-and-white-balls](https://github.com/Mikreselasie/LeetCode-Solutions/tree/master/3195-separate-black-and-white-balls) |
 | [3447-clear-digits](https://github.com/Mikreselasie/LeetCode-Solutions/tree/master/3447-clear-digits) |
@@ -392,6 +394,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1582-design-browser-history](https://github.com/Mikreselasie/LeetCode-Solutions/tree/master/1582-design-browser-history) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/Mikreselasie/LeetCode-Solutions/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2456-construct-smallest-number-from-di-string](https://github.com/Mikreselasie/LeetCode-Solutions/tree/master/2456-construct-smallest-number-from-di-string) |
+| [2470-removing-stars-from-a-string](https://github.com/Mikreselasie/LeetCode-Solutions/tree/master/2470-removing-stars-from-a-string) |
 | [3447-clear-digits](https://github.com/Mikreselasie/LeetCode-Solutions/tree/master/3447-clear-digits) |
 ## Binary Search
 |  |
