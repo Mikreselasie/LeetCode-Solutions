@@ -212,6 +212,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0012-integer-to-roman](https://github.com/Mikreselasie/LeetCode-Solutions/tree/master/0012-integer-to-roman) |
 | [0020-valid-parentheses](https://github.com/Mikreselasie/LeetCode-Solutions/tree/master/0020-valid-parentheses) |
 | [0049-group-anagrams](https://github.com/Mikreselasie/LeetCode-Solutions/tree/master/0049-group-anagrams) |
+| [0071-simplify-path](https://github.com/Mikreselasie/LeetCode-Solutions/tree/master/0071-simplify-path) |
 | [0076-minimum-window-substring](https://github.com/Mikreselasie/LeetCode-Solutions/tree/master/0076-minimum-window-substring) |
 | [0168-excel-sheet-column-title](https://github.com/Mikreselasie/LeetCode-Solutions/tree/master/0168-excel-sheet-column-title) |
 | [0179-largest-number](https://github.com/Mikreselasie/LeetCode-Solutions/tree/master/0179-largest-number) |
@@ -390,6 +391,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Mikreselasie/LeetCode-Solutions/tree/master/0020-valid-parentheses) |
+| [0071-simplify-path](https://github.com/Mikreselasie/LeetCode-Solutions/tree/master/0071-simplify-path) |
 | [0234-palindrome-linked-list](https://github.com/Mikreselasie/LeetCode-Solutions/tree/master/0234-palindrome-linked-list) |
 | [1582-design-browser-history](https://github.com/Mikreselasie/LeetCode-Solutions/tree/master/1582-design-browser-history) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/Mikreselasie/LeetCode-Solutions/tree/master/2021-remove-all-occurrences-of-a-substring) |
