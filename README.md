@@ -40,6 +40,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0661-image-smoother](https://github.com/Mikreselasie/LeetCode-Solutions/tree/master/0661-image-smoother) |
 | [0722-remove-comments](https://github.com/Mikreselasie/LeetCode-Solutions/tree/master/0722-remove-comments) |
 | [0724-find-pivot-index](https://github.com/Mikreselasie/LeetCode-Solutions/tree/master/0724-find-pivot-index) |
+| [0739-daily-temperatures](https://github.com/Mikreselasie/LeetCode-Solutions/tree/master/0739-daily-temperatures) |
 | [0797-rabbits-in-forest](https://github.com/Mikreselasie/LeetCode-Solutions/tree/master/0797-rabbits-in-forest) |
 | [0829-subdomain-visit-count](https://github.com/Mikreselasie/LeetCode-Solutions/tree/master/0829-subdomain-visit-count) |
 | [0890-lemonade-change](https://github.com/Mikreselasie/LeetCode-Solutions/tree/master/0890-lemonade-change) |
@@ -402,6 +403,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0020-valid-parentheses](https://github.com/Mikreselasie/LeetCode-Solutions/tree/master/0020-valid-parentheses) |
 | [0071-simplify-path](https://github.com/Mikreselasie/LeetCode-Solutions/tree/master/0071-simplify-path) |
 | [0234-palindrome-linked-list](https://github.com/Mikreselasie/LeetCode-Solutions/tree/master/0234-palindrome-linked-list) |
+| [0739-daily-temperatures](https://github.com/Mikreselasie/LeetCode-Solutions/tree/master/0739-daily-temperatures) |
 | [0874-backspace-string-compare](https://github.com/Mikreselasie/LeetCode-Solutions/tree/master/0874-backspace-string-compare) |
 | [1582-design-browser-history](https://github.com/Mikreselasie/LeetCode-Solutions/tree/master/1582-design-browser-history) |
 | [1720-crawler-log-folder](https://github.com/Mikreselasie/LeetCode-Solutions/tree/master/1720-crawler-log-folder) |
@@ -530,4 +532,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/Mikreselasie/LeetCode-Solutions/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [1093-recover-a-tree-from-preorder-traversal](https://github.com/Mikreselasie/LeetCode-Solutions/tree/master/1093-recover-a-tree-from-preorder-traversal) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/Mikreselasie/LeetCode-Solutions/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0739-daily-temperatures](https://github.com/Mikreselasie/LeetCode-Solutions/tree/master/0739-daily-temperatures) |
 <!---LeetCode Topics End-->
