@@ -65,6 +65,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1651-shuffle-string](https://github.com/Mikreselasie/LeetCode-Solutions/tree/master/1651-shuffle-string) |
 | [1683-maximum-number-of-coins-you-can-get](https://github.com/Mikreselasie/LeetCode-Solutions/tree/master/1683-maximum-number-of-coins-you-can-get) |
 | [1695-maximum-sum-obtained-of-any-permutation](https://github.com/Mikreselasie/LeetCode-Solutions/tree/master/1695-maximum-sum-obtained-of-any-permutation) |
+| [1720-crawler-log-folder](https://github.com/Mikreselasie/LeetCode-Solutions/tree/master/1720-crawler-log-folder) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/Mikreselasie/LeetCode-Solutions/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1791-richest-customer-wealth](https://github.com/Mikreselasie/LeetCode-Solutions/tree/master/1791-richest-customer-wealth) |
 | [1819-construct-the-lexicographically-largest-valid-sequence](https://github.com/Mikreselasie/LeetCode-Solutions/tree/master/1819-construct-the-lexicographically-largest-valid-sequence) |
@@ -239,6 +240,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1469-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/Mikreselasie/LeetCode-Solutions/tree/master/1469-minimum-number-of-steps-to-make-two-strings-anagram) |
 | [1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/Mikreselasie/LeetCode-Solutions/tree/master/1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
 | [1651-shuffle-string](https://github.com/Mikreselasie/LeetCode-Solutions/tree/master/1651-shuffle-string) |
+| [1720-crawler-log-folder](https://github.com/Mikreselasie/LeetCode-Solutions/tree/master/1720-crawler-log-folder) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/Mikreselasie/LeetCode-Solutions/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/Mikreselasie/LeetCode-Solutions/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/Mikreselasie/LeetCode-Solutions/tree/master/2021-remove-all-occurrences-of-a-substring) |
@@ -398,6 +400,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0071-simplify-path](https://github.com/Mikreselasie/LeetCode-Solutions/tree/master/0071-simplify-path) |
 | [0234-palindrome-linked-list](https://github.com/Mikreselasie/LeetCode-Solutions/tree/master/0234-palindrome-linked-list) |
 | [1582-design-browser-history](https://github.com/Mikreselasie/LeetCode-Solutions/tree/master/1582-design-browser-history) |
+| [1720-crawler-log-folder](https://github.com/Mikreselasie/LeetCode-Solutions/tree/master/1720-crawler-log-folder) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/Mikreselasie/LeetCode-Solutions/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2456-construct-smallest-number-from-di-string](https://github.com/Mikreselasie/LeetCode-Solutions/tree/master/2456-construct-smallest-number-from-di-string) |
 | [2470-removing-stars-from-a-string](https://github.com/Mikreselasie/LeetCode-Solutions/tree/master/2470-removing-stars-from-a-string) |
