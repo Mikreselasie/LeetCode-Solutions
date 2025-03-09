@@ -237,6 +237,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0829-subdomain-visit-count](https://github.com/Mikreselasie/LeetCode-Solutions/tree/master/0829-subdomain-visit-count) |
 | [0858-masking-personal-information](https://github.com/Mikreselasie/LeetCode-Solutions/tree/master/0858-masking-personal-information) |
 | [0874-backspace-string-compare](https://github.com/Mikreselasie/LeetCode-Solutions/tree/master/0874-backspace-string-compare) |
+| [0886-score-of-parentheses](https://github.com/Mikreselasie/LeetCode-Solutions/tree/master/0886-score-of-parentheses) |
 | [1093-recover-a-tree-from-preorder-traversal](https://github.com/Mikreselasie/LeetCode-Solutions/tree/master/1093-recover-a-tree-from-preorder-traversal) |
 | [1112-find-words-that-can-be-formed-by-characters](https://github.com/Mikreselasie/LeetCode-Solutions/tree/master/1112-find-words-that-can-be-formed-by-characters) |
 | [1160-letter-tile-possibilities](https://github.com/Mikreselasie/LeetCode-Solutions/tree/master/1160-letter-tile-possibilities) |
@@ -414,6 +415,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0234-palindrome-linked-list](https://github.com/Mikreselasie/LeetCode-Solutions/tree/master/0234-palindrome-linked-list) |
 | [0739-daily-temperatures](https://github.com/Mikreselasie/LeetCode-Solutions/tree/master/0739-daily-temperatures) |
 | [0874-backspace-string-compare](https://github.com/Mikreselasie/LeetCode-Solutions/tree/master/0874-backspace-string-compare) |
+| [0886-score-of-parentheses](https://github.com/Mikreselasie/LeetCode-Solutions/tree/master/0886-score-of-parentheses) |
 | [1582-design-browser-history](https://github.com/Mikreselasie/LeetCode-Solutions/tree/master/1582-design-browser-history) |
 | [1720-crawler-log-folder](https://github.com/Mikreselasie/LeetCode-Solutions/tree/master/1720-crawler-log-folder) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/Mikreselasie/LeetCode-Solutions/tree/master/2021-remove-all-occurrences-of-a-substring) |
