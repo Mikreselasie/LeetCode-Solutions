@@ -142,6 +142,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2502-sort-the-people](https://github.com/Mikreselasie/LeetCode-Solutions/tree/master/2502-sort-the-people) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/Mikreselasie/LeetCode-Solutions/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 | [3227-find-missing-and-repeated-values](https://github.com/Mikreselasie/LeetCode-Solutions/tree/master/3227-find-missing-and-repeated-values) |
+| [3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii](https://github.com/Mikreselasie/LeetCode-Solutions/tree/master/3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/Mikreselasie/LeetCode-Solutions/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 ## Sorting
 |  |
@@ -258,6 +259,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2502-sort-the-people](https://github.com/Mikreselasie/LeetCode-Solutions/tree/master/2502-sort-the-people) |
 | [3195-separate-black-and-white-balls](https://github.com/Mikreselasie/LeetCode-Solutions/tree/master/3195-separate-black-and-white-balls) |
 | [3447-clear-digits](https://github.com/Mikreselasie/LeetCode-Solutions/tree/master/3447-clear-digits) |
+| [3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii](https://github.com/Mikreselasie/LeetCode-Solutions/tree/master/3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii) |
 ## Queue
 |  |
 | ------- |
@@ -464,6 +466,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/Mikreselasie/LeetCode-Solutions/tree/master/1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
 | [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/Mikreselasie/LeetCode-Solutions/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
 | [3483-alternating-groups-ii](https://github.com/Mikreselasie/LeetCode-Solutions/tree/master/3483-alternating-groups-ii) |
+| [3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii](https://github.com/Mikreselasie/LeetCode-Solutions/tree/master/3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii) |
 ## Prefix Sum
 |  |
 | ------- |
