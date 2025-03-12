@@ -307,6 +307,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0012-integer-to-roman](https://github.com/Mikreselasie/LeetCode-Solutions/tree/master/0012-integer-to-roman) |
 | [0048-rotate-image](https://github.com/Mikreselasie/LeetCode-Solutions/tree/master/0048-rotate-image) |
+| [0050-powx-n](https://github.com/Mikreselasie/LeetCode-Solutions/tree/master/0050-powx-n) |
 | [0066-plus-one](https://github.com/Mikreselasie/LeetCode-Solutions/tree/master/0066-plus-one) |
 | [0168-excel-sheet-column-title](https://github.com/Mikreselasie/LeetCode-Solutions/tree/master/0168-excel-sheet-column-title) |
 | [0172-factorial-trailing-zeroes](https://github.com/Mikreselasie/LeetCode-Solutions/tree/master/0172-factorial-trailing-zeroes) |
@@ -362,6 +363,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/Mikreselasie/LeetCode-Solutions/tree/master/0021-merge-two-sorted-lists) |
+| [0050-powx-n](https://github.com/Mikreselasie/LeetCode-Solutions/tree/master/0050-powx-n) |
 | [0203-remove-linked-list-elements](https://github.com/Mikreselasie/LeetCode-Solutions/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/Mikreselasie/LeetCode-Solutions/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/Mikreselasie/LeetCode-Solutions/tree/master/0234-palindrome-linked-list) |
