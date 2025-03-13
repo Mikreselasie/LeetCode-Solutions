@@ -1,15 +1,13 @@
 class Solution:
     def getRow(self, rowIndex: int) -> List[int]:
-        answer = [1]*(rowIndex+1)
-        base = factorial(rowIndex)
-        for i in range(1,rowIndex):
-            answer[i] = base //(factorial(i)*factorial(rowIndex-i))
-
-        def fatorial(x):
-            y = 1
-            while x > 1:
-                y *= x
-                x -= 1
-            return y
-        return answer
+        if rowIndex == 0:
+            return [1]
         
+        temp = self.getRow(rowIndex-1)
+        
+        for i in range(1,rowIndex):
+            x =  temp[i] + temp[i-1]
+            temp[i-1] = x
+
+        temp = [1] + temp 
+        return temp
