@@ -437,6 +437,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0020-valid-parentheses](https://github.com/Mikreselasie/LeetCode-Solutions/tree/master/0020-valid-parentheses) |
 | [0071-simplify-path](https://github.com/Mikreselasie/LeetCode-Solutions/tree/master/0071-simplify-path) |
+| [0144-binary-tree-preorder-traversal](https://github.com/Mikreselasie/LeetCode-Solutions/tree/master/0144-binary-tree-preorder-traversal) |
 | [0225-implement-stack-using-queues](https://github.com/Mikreselasie/LeetCode-Solutions/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/Mikreselasie/LeetCode-Solutions/tree/master/0232-implement-queue-using-stacks) |
 | [0234-palindrome-linked-list](https://github.com/Mikreselasie/LeetCode-Solutions/tree/master/0234-palindrome-linked-list) |
@@ -563,12 +564,14 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Tree
 |  |
 | ------- |
+| [0144-binary-tree-preorder-traversal](https://github.com/Mikreselasie/LeetCode-Solutions/tree/master/0144-binary-tree-preorder-traversal) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/Mikreselasie/LeetCode-Solutions/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [1093-recover-a-tree-from-preorder-traversal](https://github.com/Mikreselasie/LeetCode-Solutions/tree/master/1093-recover-a-tree-from-preorder-traversal) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/Mikreselasie/LeetCode-Solutions/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 ## Depth-First Search
 |  |
 | ------- |
+| [0144-binary-tree-preorder-traversal](https://github.com/Mikreselasie/LeetCode-Solutions/tree/master/0144-binary-tree-preorder-traversal) |
 | [1093-recover-a-tree-from-preorder-traversal](https://github.com/Mikreselasie/LeetCode-Solutions/tree/master/1093-recover-a-tree-from-preorder-traversal) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/Mikreselasie/LeetCode-Solutions/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 ## Breadth-First Search
@@ -578,6 +581,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Binary Tree
 |  |
 | ------- |
+| [0144-binary-tree-preorder-traversal](https://github.com/Mikreselasie/LeetCode-Solutions/tree/master/0144-binary-tree-preorder-traversal) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/Mikreselasie/LeetCode-Solutions/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [1093-recover-a-tree-from-preorder-traversal](https://github.com/Mikreselasie/LeetCode-Solutions/tree/master/1093-recover-a-tree-from-preorder-traversal) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/Mikreselasie/LeetCode-Solutions/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
