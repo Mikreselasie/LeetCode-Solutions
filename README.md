@@ -9,6 +9,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0001-two-sum](https://github.com/Mikreselasie/LeetCode-Solutions/tree/master/0001-two-sum) |
 | [0011-container-with-most-water](https://github.com/Mikreselasie/LeetCode-Solutions/tree/master/0011-container-with-most-water) |
 | [0016-3sum-closest](https://github.com/Mikreselasie/LeetCode-Solutions/tree/master/0016-3sum-closest) |
+| [0039-combination-sum](https://github.com/Mikreselasie/LeetCode-Solutions/tree/master/0039-combination-sum) |
 | [0048-rotate-image](https://github.com/Mikreselasie/LeetCode-Solutions/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/Mikreselasie/LeetCode-Solutions/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/Mikreselasie/LeetCode-Solutions/tree/master/0053-maximum-subarray) |
@@ -549,6 +550,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Backtracking
 |  |
 | ------- |
+| [0039-combination-sum](https://github.com/Mikreselasie/LeetCode-Solutions/tree/master/0039-combination-sum) |
 | [0077-combinations](https://github.com/Mikreselasie/LeetCode-Solutions/tree/master/0077-combinations) |
 | [0078-subsets](https://github.com/Mikreselasie/LeetCode-Solutions/tree/master/0078-subsets) |
 | [1160-letter-tile-possibilities](https://github.com/Mikreselasie/LeetCode-Solutions/tree/master/1160-letter-tile-possibilities) |
