@@ -581,6 +581,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0119-pascals-triangle-ii](https://github.com/Mikreselasie/LeetCode-Solutions/tree/master/0119-pascals-triangle-ii) |
 | [0943-sum-of-subarray-minimums](https://github.com/Mikreselasie/LeetCode-Solutions/tree/master/0943-sum-of-subarray-minimums) |
 | [1418-fair-distribution-of-cookies](https://github.com/Mikreselasie/LeetCode-Solutions/tree/master/1418-fair-distribution-of-cookies) |
+| [2090-number-of-ways-to-arrive-at-destination](https://github.com/Mikreselasie/LeetCode-Solutions/tree/master/2090-number-of-ways-to-arrive-at-destination) |
 ## Line Sweep
 |  |
 | ------- |
@@ -677,6 +678,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Graph
 |  |
 | ------- |
+| [2090-number-of-ways-to-arrive-at-destination](https://github.com/Mikreselasie/LeetCode-Solutions/tree/master/2090-number-of-ways-to-arrive-at-destination) |
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/Mikreselasie/LeetCode-Solutions/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 | [3348-minimum-cost-walk-in-weighted-graph](https://github.com/Mikreselasie/LeetCode-Solutions/tree/master/3348-minimum-cost-walk-in-weighted-graph) |
 ## Bitmask
@@ -686,5 +688,10 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Topological Sort
 |  |
 | ------- |
+| [2090-number-of-ways-to-arrive-at-destination](https://github.com/Mikreselasie/LeetCode-Solutions/tree/master/2090-number-of-ways-to-arrive-at-destination) |
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/Mikreselasie/LeetCode-Solutions/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
+## Shortest Path
+|  |
+| ------- |
+| [2090-number-of-ways-to-arrive-at-destination](https://github.com/Mikreselasie/LeetCode-Solutions/tree/master/2090-number-of-ways-to-arrive-at-destination) |
 <!---LeetCode Topics End-->
