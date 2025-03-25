@@ -46,6 +46,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0722-remove-comments](https://github.com/Mikreselasie/LeetCode-Solutions/tree/master/0722-remove-comments) |
 | [0724-find-pivot-index](https://github.com/Mikreselasie/LeetCode-Solutions/tree/master/0724-find-pivot-index) |
 | [0739-daily-temperatures](https://github.com/Mikreselasie/LeetCode-Solutions/tree/master/0739-daily-temperatures) |
+| [0792-binary-search](https://github.com/Mikreselasie/LeetCode-Solutions/tree/master/0792-binary-search) |
 | [0797-rabbits-in-forest](https://github.com/Mikreselasie/LeetCode-Solutions/tree/master/0797-rabbits-in-forest) |
 | [0829-subdomain-visit-count](https://github.com/Mikreselasie/LeetCode-Solutions/tree/master/0829-subdomain-visit-count) |
 | [0859-design-circular-deque](https://github.com/Mikreselasie/LeetCode-Solutions/tree/master/0859-design-circular-deque) |
@@ -496,6 +497,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Mikreselasie/LeetCode-Solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0456-132-pattern](https://github.com/Mikreselasie/LeetCode-Solutions/tree/master/0456-132-pattern) |
 | [0633-sum-of-square-numbers](https://github.com/Mikreselasie/LeetCode-Solutions/tree/master/0633-sum-of-square-numbers) |
+| [0792-binary-search](https://github.com/Mikreselasie/LeetCode-Solutions/tree/master/0792-binary-search) |
 | [1046-max-consecutive-ones-iii](https://github.com/Mikreselasie/LeetCode-Solutions/tree/master/1046-max-consecutive-ones-iii) |
 | [2210-find-target-indices-after-sorting-array](https://github.com/Mikreselasie/LeetCode-Solutions/tree/master/2210-find-target-indices-after-sorting-array) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Mikreselasie/LeetCode-Solutions/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
