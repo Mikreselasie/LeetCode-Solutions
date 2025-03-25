@@ -22,7 +22,7 @@ class Solution:
         
         prev = 0
         cnt = 0
-        print(verticals)
+        
         for ver in verticals:
             if prev <= ver[0]:
                 cnt += 1
