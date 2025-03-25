@@ -343,6 +343,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0048-rotate-image](https://github.com/Mikreselasie/LeetCode-Solutions/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/Mikreselasie/LeetCode-Solutions/tree/master/0050-powx-n) |
 | [0066-plus-one](https://github.com/Mikreselasie/LeetCode-Solutions/tree/master/0066-plus-one) |
+| [0069-sqrtx](https://github.com/Mikreselasie/LeetCode-Solutions/tree/master/0069-sqrtx) |
 | [0168-excel-sheet-column-title](https://github.com/Mikreselasie/LeetCode-Solutions/tree/master/0168-excel-sheet-column-title) |
 | [0172-factorial-trailing-zeroes](https://github.com/Mikreselasie/LeetCode-Solutions/tree/master/0172-factorial-trailing-zeroes) |
 | [0189-rotate-array](https://github.com/Mikreselasie/LeetCode-Solutions/tree/master/0189-rotate-array) |
@@ -496,6 +497,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Mikreselasie/LeetCode-Solutions/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
+| [0069-sqrtx](https://github.com/Mikreselasie/LeetCode-Solutions/tree/master/0069-sqrtx) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Mikreselasie/LeetCode-Solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0456-132-pattern](https://github.com/Mikreselasie/LeetCode-Solutions/tree/master/0456-132-pattern) |
 | [0633-sum-of-square-numbers](https://github.com/Mikreselasie/LeetCode-Solutions/tree/master/0633-sum-of-square-numbers) |
