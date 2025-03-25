@@ -113,6 +113,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/Mikreselasie/LeetCode-Solutions/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3643-zero-array-transformation-ii](https://github.com/Mikreselasie/LeetCode-Solutions/tree/master/3643-zero-array-transformation-ii) |
 | [3651-transformed-array](https://github.com/Mikreselasie/LeetCode-Solutions/tree/master/3651-transformed-array) |
+| [3657-check-if-grid-can-be-cut-into-sections](https://github.com/Mikreselasie/LeetCode-Solutions/tree/master/3657-check-if-grid-can-be-cut-into-sections) |
 ## Hash Table
 |  |
 | ------- |
@@ -196,6 +197,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/Mikreselasie/LeetCode-Solutions/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 | [2631-sort-the-students-by-their-kth-score](https://github.com/Mikreselasie/LeetCode-Solutions/tree/master/2631-sort-the-students-by-their-kth-score) |
 | [3430-count-days-without-meetings](https://github.com/Mikreselasie/LeetCode-Solutions/tree/master/3430-count-days-without-meetings) |
+| [3657-check-if-grid-can-be-cut-into-sections](https://github.com/Mikreselasie/LeetCode-Solutions/tree/master/3657-check-if-grid-can-be-cut-into-sections) |
 ## Counting
 |  |
 | ------- |
