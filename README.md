@@ -642,6 +642,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0515-find-largest-value-in-each-tree-row](https://github.com/Mikreselasie/LeetCode-Solutions/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0784-insert-into-a-binary-search-tree](https://github.com/Mikreselasie/LeetCode-Solutions/tree/master/0784-insert-into-a-binary-search-tree) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/Mikreselasie/LeetCode-Solutions/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
+| [1092-maximum-difference-between-node-and-ancestor](https://github.com/Mikreselasie/LeetCode-Solutions/tree/master/1092-maximum-difference-between-node-and-ancestor) |
 | [1093-recover-a-tree-from-preorder-traversal](https://github.com/Mikreselasie/LeetCode-Solutions/tree/master/1093-recover-a-tree-from-preorder-traversal) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/Mikreselasie/LeetCode-Solutions/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/Mikreselasie/LeetCode-Solutions/tree/master/2493-reverse-odd-levels-of-binary-tree) |
@@ -653,6 +654,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0144-binary-tree-preorder-traversal](https://github.com/Mikreselasie/LeetCode-Solutions/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Mikreselasie/LeetCode-Solutions/tree/master/0145-binary-tree-postorder-traversal) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/Mikreselasie/LeetCode-Solutions/tree/master/0515-find-largest-value-in-each-tree-row) |
+| [1092-maximum-difference-between-node-and-ancestor](https://github.com/Mikreselasie/LeetCode-Solutions/tree/master/1092-maximum-difference-between-node-and-ancestor) |
 | [1093-recover-a-tree-from-preorder-traversal](https://github.com/Mikreselasie/LeetCode-Solutions/tree/master/1093-recover-a-tree-from-preorder-traversal) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/Mikreselasie/LeetCode-Solutions/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/Mikreselasie/LeetCode-Solutions/tree/master/2493-reverse-odd-levels-of-binary-tree) |
@@ -678,6 +680,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0515-find-largest-value-in-each-tree-row](https://github.com/Mikreselasie/LeetCode-Solutions/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0784-insert-into-a-binary-search-tree](https://github.com/Mikreselasie/LeetCode-Solutions/tree/master/0784-insert-into-a-binary-search-tree) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/Mikreselasie/LeetCode-Solutions/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
+| [1092-maximum-difference-between-node-and-ancestor](https://github.com/Mikreselasie/LeetCode-Solutions/tree/master/1092-maximum-difference-between-node-and-ancestor) |
 | [1093-recover-a-tree-from-preorder-traversal](https://github.com/Mikreselasie/LeetCode-Solutions/tree/master/1093-recover-a-tree-from-preorder-traversal) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/Mikreselasie/LeetCode-Solutions/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/Mikreselasie/LeetCode-Solutions/tree/master/2493-reverse-odd-levels-of-binary-tree) |
