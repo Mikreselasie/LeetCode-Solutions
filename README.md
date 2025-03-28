@@ -653,6 +653,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1093-recover-a-tree-from-preorder-traversal](https://github.com/Mikreselasie/LeetCode-Solutions/tree/master/1093-recover-a-tree-from-preorder-traversal) |
 | [1114-binary-search-tree-to-greater-sum-tree](https://github.com/Mikreselasie/LeetCode-Solutions/tree/master/1114-binary-search-tree-to-greater-sum-tree) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/Mikreselasie/LeetCode-Solutions/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
+| [2347-count-nodes-equal-to-average-of-subtree](https://github.com/Mikreselasie/LeetCode-Solutions/tree/master/2347-count-nodes-equal-to-average-of-subtree) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/Mikreselasie/LeetCode-Solutions/tree/master/2493-reverse-odd-levels-of-binary-tree) |
 ## Depth-First Search
 |  |
@@ -668,6 +669,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1093-recover-a-tree-from-preorder-traversal](https://github.com/Mikreselasie/LeetCode-Solutions/tree/master/1093-recover-a-tree-from-preorder-traversal) |
 | [1114-binary-search-tree-to-greater-sum-tree](https://github.com/Mikreselasie/LeetCode-Solutions/tree/master/1114-binary-search-tree-to-greater-sum-tree) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/Mikreselasie/LeetCode-Solutions/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
+| [2347-count-nodes-equal-to-average-of-subtree](https://github.com/Mikreselasie/LeetCode-Solutions/tree/master/2347-count-nodes-equal-to-average-of-subtree) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/Mikreselasie/LeetCode-Solutions/tree/master/2493-reverse-odd-levels-of-binary-tree) |
 ## Breadth-First Search
 |  |
@@ -698,6 +700,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1093-recover-a-tree-from-preorder-traversal](https://github.com/Mikreselasie/LeetCode-Solutions/tree/master/1093-recover-a-tree-from-preorder-traversal) |
 | [1114-binary-search-tree-to-greater-sum-tree](https://github.com/Mikreselasie/LeetCode-Solutions/tree/master/1114-binary-search-tree-to-greater-sum-tree) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/Mikreselasie/LeetCode-Solutions/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
+| [2347-count-nodes-equal-to-average-of-subtree](https://github.com/Mikreselasie/LeetCode-Solutions/tree/master/2347-count-nodes-equal-to-average-of-subtree) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/Mikreselasie/LeetCode-Solutions/tree/master/2493-reverse-odd-levels-of-binary-tree) |
 ## Monotonic Stack
 |  |
