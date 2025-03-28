@@ -103,6 +103,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2527-count-subarrays-with-fixed-bounds](https://github.com/Mikreselasie/LeetCode-Solutions/tree/master/2527-count-subarrays-with-fixed-bounds) |
 | [2551-apply-operations-to-an-array](https://github.com/Mikreselasie/LeetCode-Solutions/tree/master/2551-apply-operations-to-an-array) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/Mikreselasie/LeetCode-Solutions/tree/master/2581-divide-players-into-teams-of-equal-skill) |
+| [2588-maximum-number-of-points-from-grid-queries](https://github.com/Mikreselasie/LeetCode-Solutions/tree/master/2588-maximum-number-of-points-from-grid-queries) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Mikreselasie/LeetCode-Solutions/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [2631-sort-the-students-by-their-kth-score](https://github.com/Mikreselasie/LeetCode-Solutions/tree/master/2631-sort-the-students-by-their-kth-score) |
 | [2639-separate-the-digits-in-an-array](https://github.com/Mikreselasie/LeetCode-Solutions/tree/master/2639-separate-the-digits-in-an-array) |
@@ -202,6 +203,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/Mikreselasie/LeetCode-Solutions/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [2502-sort-the-people](https://github.com/Mikreselasie/LeetCode-Solutions/tree/master/2502-sort-the-people) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/Mikreselasie/LeetCode-Solutions/tree/master/2581-divide-players-into-teams-of-equal-skill) |
+| [2588-maximum-number-of-points-from-grid-queries](https://github.com/Mikreselasie/LeetCode-Solutions/tree/master/2588-maximum-number-of-points-from-grid-queries) |
 | [2631-sort-the-students-by-their-kth-score](https://github.com/Mikreselasie/LeetCode-Solutions/tree/master/2631-sort-the-students-by-their-kth-score) |
 | [2888-minimum-index-of-a-valid-split](https://github.com/Mikreselasie/LeetCode-Solutions/tree/master/2888-minimum-index-of-a-valid-split) |
 | [3430-count-days-without-meetings](https://github.com/Mikreselasie/LeetCode-Solutions/tree/master/3430-count-days-without-meetings) |
@@ -331,6 +333,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/Mikreselasie/LeetCode-Solutions/tree/master/1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
 | [2434-design-a-number-container-system](https://github.com/Mikreselasie/LeetCode-Solutions/tree/master/2434-design-a-number-container-system) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/Mikreselasie/LeetCode-Solutions/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
+| [2588-maximum-number-of-points-from-grid-queries](https://github.com/Mikreselasie/LeetCode-Solutions/tree/master/2588-maximum-number-of-points-from-grid-queries) |
 | [3332-minimum-operations-to-exceed-threshold-value-ii](https://github.com/Mikreselasie/LeetCode-Solutions/tree/master/3332-minimum-operations-to-exceed-threshold-value-ii) |
 ## Bucket Sort
 |  |
@@ -408,6 +411,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1028-interval-list-intersections](https://github.com/Mikreselasie/LeetCode-Solutions/tree/master/1028-interval-list-intersections) |
 | [2551-apply-operations-to-an-array](https://github.com/Mikreselasie/LeetCode-Solutions/tree/master/2551-apply-operations-to-an-array) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/Mikreselasie/LeetCode-Solutions/tree/master/2581-divide-players-into-teams-of-equal-skill) |
+| [2588-maximum-number-of-points-from-grid-queries](https://github.com/Mikreselasie/LeetCode-Solutions/tree/master/2588-maximum-number-of-points-from-grid-queries) |
 | [3195-separate-black-and-white-balls](https://github.com/Mikreselasie/LeetCode-Solutions/tree/master/3195-separate-black-and-white-balls) |
 ## Recursion
 |  |
@@ -435,6 +439,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1791-richest-customer-wealth](https://github.com/Mikreselasie/LeetCode-Solutions/tree/master/1791-richest-customer-wealth) |
 | [2015-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/Mikreselasie/LeetCode-Solutions/tree/master/2015-determine-whether-matrix-can-be-obtained-by-rotation) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/Mikreselasie/LeetCode-Solutions/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
+| [2588-maximum-number-of-points-from-grid-queries](https://github.com/Mikreselasie/LeetCode-Solutions/tree/master/2588-maximum-number-of-points-from-grid-queries) |
 | [2631-sort-the-students-by-their-kth-score](https://github.com/Mikreselasie/LeetCode-Solutions/tree/master/2631-sort-the-students-by-their-kth-score) |
 | [3227-find-missing-and-repeated-values](https://github.com/Mikreselasie/LeetCode-Solutions/tree/master/3227-find-missing-and-repeated-values) |
 ## Design
@@ -673,6 +678,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0515-find-largest-value-in-each-tree-row](https://github.com/Mikreselasie/LeetCode-Solutions/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/Mikreselasie/LeetCode-Solutions/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/Mikreselasie/LeetCode-Solutions/tree/master/2493-reverse-odd-levels-of-binary-tree) |
+| [2588-maximum-number-of-points-from-grid-queries](https://github.com/Mikreselasie/LeetCode-Solutions/tree/master/2588-maximum-number-of-points-from-grid-queries) |
 ## Binary Tree
 |  |
 | ------- |
@@ -715,6 +721,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Union Find
 |  |
 | ------- |
+| [2588-maximum-number-of-points-from-grid-queries](https://github.com/Mikreselasie/LeetCode-Solutions/tree/master/2588-maximum-number-of-points-from-grid-queries) |
 | [3348-minimum-cost-walk-in-weighted-graph](https://github.com/Mikreselasie/LeetCode-Solutions/tree/master/3348-minimum-cost-walk-in-weighted-graph) |
 ## Graph
 |  |
