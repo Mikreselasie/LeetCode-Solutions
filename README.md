@@ -235,6 +235,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/Mikreselasie/LeetCode-Solutions/tree/master/0054-spiral-matrix) |
+| [0415-add-strings](https://github.com/Mikreselasie/LeetCode-Solutions/tree/master/0415-add-strings) |
 | [0498-diagonal-traverse](https://github.com/Mikreselasie/LeetCode-Solutions/tree/master/0498-diagonal-traverse) |
 | [0874-backspace-string-compare](https://github.com/Mikreselasie/LeetCode-Solutions/tree/master/0874-backspace-string-compare) |
 | [0898-transpose-matrix](https://github.com/Mikreselasie/LeetCode-Solutions/tree/master/0898-transpose-matrix) |
@@ -267,6 +268,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0344-reverse-string](https://github.com/Mikreselasie/LeetCode-Solutions/tree/master/0344-reverse-string) |
 | [0387-first-unique-character-in-a-string](https://github.com/Mikreselasie/LeetCode-Solutions/tree/master/0387-first-unique-character-in-a-string) |
 | [0394-decode-string](https://github.com/Mikreselasie/LeetCode-Solutions/tree/master/0394-decode-string) |
+| [0415-add-strings](https://github.com/Mikreselasie/LeetCode-Solutions/tree/master/0415-add-strings) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Mikreselasie/LeetCode-Solutions/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0451-sort-characters-by-frequency](https://github.com/Mikreselasie/LeetCode-Solutions/tree/master/0451-sort-characters-by-frequency) |
 | [0500-keyboard-row](https://github.com/Mikreselasie/LeetCode-Solutions/tree/master/0500-keyboard-row) |
@@ -361,6 +363,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0326-power-of-three](https://github.com/Mikreselasie/LeetCode-Solutions/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/Mikreselasie/LeetCode-Solutions/tree/master/0342-power-of-four) |
 | [0380-insert-delete-getrandom-o1](https://github.com/Mikreselasie/LeetCode-Solutions/tree/master/0380-insert-delete-getrandom-o1) |
+| [0415-add-strings](https://github.com/Mikreselasie/LeetCode-Solutions/tree/master/0415-add-strings) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Mikreselasie/LeetCode-Solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [0633-sum-of-square-numbers](https://github.com/Mikreselasie/LeetCode-Solutions/tree/master/0633-sum-of-square-numbers) |
 | [0797-rabbits-in-forest](https://github.com/Mikreselasie/LeetCode-Solutions/tree/master/0797-rabbits-in-forest) |
