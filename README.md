@@ -22,6 +22,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Mikreselasie/LeetCode-Solutions/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0119-pascals-triangle-ii](https://github.com/Mikreselasie/LeetCode-Solutions/tree/master/0119-pascals-triangle-ii) |
 | [0134-gas-station](https://github.com/Mikreselasie/LeetCode-Solutions/tree/master/0134-gas-station) |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/Mikreselasie/LeetCode-Solutions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Mikreselasie/LeetCode-Solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/Mikreselasie/LeetCode-Solutions/tree/master/0169-majority-element) |
 | [0179-largest-number](https://github.com/Mikreselasie/LeetCode-Solutions/tree/master/0179-largest-number) |
@@ -518,6 +519,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Mikreselasie/LeetCode-Solutions/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0069-sqrtx](https://github.com/Mikreselasie/LeetCode-Solutions/tree/master/0069-sqrtx) |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/Mikreselasie/LeetCode-Solutions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Mikreselasie/LeetCode-Solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0278-first-bad-version](https://github.com/Mikreselasie/LeetCode-Solutions/tree/master/0278-first-bad-version) |
 | [0456-132-pattern](https://github.com/Mikreselasie/LeetCode-Solutions/tree/master/0456-132-pattern) |
