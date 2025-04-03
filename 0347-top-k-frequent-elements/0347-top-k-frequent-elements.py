@@ -2,10 +2,16 @@ class Solution:
     def topKFrequent(self, nums: List[int], k: int) -> List[int]:
         counted = Counter(nums)
 
-        sorted_dict = sorted(counted.items(),key = lambda item: item[1],reverse = True)
-        my_list = []
-        for i in range(k):
-            my_list.append(sorted_dict[i][0])
-        return my_list
+        buckets = [[] for i in range(max(counted.values()))]
 
+        for num,cnt in counted.items():
+            buckets[cnt-1].append(num)
         
+        ans = []
+        ptr = len(buckets)-1
+        while k>0:
+            ans.extend(buckets[ptr])
+            k -= len(buckets[ptr])
+            ptr -= 1
+        return ans
+
