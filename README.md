@@ -17,6 +17,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0053-maximum-subarray](https://github.com/Mikreselasie/LeetCode-Solutions/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/Mikreselasie/LeetCode-Solutions/tree/master/0054-spiral-matrix) |
 | [0066-plus-one](https://github.com/Mikreselasie/LeetCode-Solutions/tree/master/0066-plus-one) |
+| [0074-search-a-2d-matrix](https://github.com/Mikreselasie/LeetCode-Solutions/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/Mikreselasie/LeetCode-Solutions/tree/master/0075-sort-colors) |
 | [0078-subsets](https://github.com/Mikreselasie/LeetCode-Solutions/tree/master/0078-subsets) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Mikreselasie/LeetCode-Solutions/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
@@ -447,6 +448,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0048-rotate-image](https://github.com/Mikreselasie/LeetCode-Solutions/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/Mikreselasie/LeetCode-Solutions/tree/master/0054-spiral-matrix) |
+| [0074-search-a-2d-matrix](https://github.com/Mikreselasie/LeetCode-Solutions/tree/master/0074-search-a-2d-matrix) |
 | [0304-range-sum-query-2d-immutable](https://github.com/Mikreselasie/LeetCode-Solutions/tree/master/0304-range-sum-query-2d-immutable) |
 | [0498-diagonal-traverse](https://github.com/Mikreselasie/LeetCode-Solutions/tree/master/0498-diagonal-traverse) |
 | [0661-image-smoother](https://github.com/Mikreselasie/LeetCode-Solutions/tree/master/0661-image-smoother) |
@@ -526,6 +528,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Mikreselasie/LeetCode-Solutions/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0069-sqrtx](https://github.com/Mikreselasie/LeetCode-Solutions/tree/master/0069-sqrtx) |
+| [0074-search-a-2d-matrix](https://github.com/Mikreselasie/LeetCode-Solutions/tree/master/0074-search-a-2d-matrix) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Mikreselasie/LeetCode-Solutions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Mikreselasie/LeetCode-Solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0278-first-bad-version](https://github.com/Mikreselasie/LeetCode-Solutions/tree/master/0278-first-bad-version) |
