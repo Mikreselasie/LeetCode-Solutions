@@ -159,6 +159,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1016-subarray-sums-divisible-by-k](https://github.com/Mikreselasie/LeetCode-Solutions/tree/master/1016-subarray-sums-divisible-by-k) |
 | [1112-find-words-that-can-be-formed-by-characters](https://github.com/Mikreselasie/LeetCode-Solutions/tree/master/1112-find-words-that-can-be-formed-by-characters) |
 | [1160-letter-tile-possibilities](https://github.com/Mikreselasie/LeetCode-Solutions/tree/master/1160-letter-tile-possibilities) |
+| [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/Mikreselasie/LeetCode-Solutions/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 | [1354-find-players-with-zero-or-one-losses](https://github.com/Mikreselasie/LeetCode-Solutions/tree/master/1354-find-players-with-zero-or-one-losses) |
 | [1364-tuple-with-same-product](https://github.com/Mikreselasie/LeetCode-Solutions/tree/master/1364-tuple-with-same-product) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/Mikreselasie/LeetCode-Solutions/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
@@ -676,6 +677,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1092-maximum-difference-between-node-and-ancestor](https://github.com/Mikreselasie/LeetCode-Solutions/tree/master/1092-maximum-difference-between-node-and-ancestor) |
 | [1093-recover-a-tree-from-preorder-traversal](https://github.com/Mikreselasie/LeetCode-Solutions/tree/master/1093-recover-a-tree-from-preorder-traversal) |
 | [1114-binary-search-tree-to-greater-sum-tree](https://github.com/Mikreselasie/LeetCode-Solutions/tree/master/1114-binary-search-tree-to-greater-sum-tree) |
+| [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/Mikreselasie/LeetCode-Solutions/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/Mikreselasie/LeetCode-Solutions/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [2347-count-nodes-equal-to-average-of-subtree](https://github.com/Mikreselasie/LeetCode-Solutions/tree/master/2347-count-nodes-equal-to-average-of-subtree) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/Mikreselasie/LeetCode-Solutions/tree/master/2493-reverse-odd-levels-of-binary-tree) |
@@ -692,6 +694,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1092-maximum-difference-between-node-and-ancestor](https://github.com/Mikreselasie/LeetCode-Solutions/tree/master/1092-maximum-difference-between-node-and-ancestor) |
 | [1093-recover-a-tree-from-preorder-traversal](https://github.com/Mikreselasie/LeetCode-Solutions/tree/master/1093-recover-a-tree-from-preorder-traversal) |
 | [1114-binary-search-tree-to-greater-sum-tree](https://github.com/Mikreselasie/LeetCode-Solutions/tree/master/1114-binary-search-tree-to-greater-sum-tree) |
+| [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/Mikreselasie/LeetCode-Solutions/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/Mikreselasie/LeetCode-Solutions/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [2347-count-nodes-equal-to-average-of-subtree](https://github.com/Mikreselasie/LeetCode-Solutions/tree/master/2347-count-nodes-equal-to-average-of-subtree) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/Mikreselasie/LeetCode-Solutions/tree/master/2493-reverse-odd-levels-of-binary-tree) |
@@ -702,6 +705,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/Mikreselasie/LeetCode-Solutions/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Mikreselasie/LeetCode-Solutions/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/Mikreselasie/LeetCode-Solutions/tree/master/0515-find-largest-value-in-each-tree-row) |
+| [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/Mikreselasie/LeetCode-Solutions/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/Mikreselasie/LeetCode-Solutions/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/Mikreselasie/LeetCode-Solutions/tree/master/2493-reverse-odd-levels-of-binary-tree) |
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/Mikreselasie/LeetCode-Solutions/tree/master/2588-maximum-number-of-points-from-grid-queries) |
@@ -723,6 +727,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1092-maximum-difference-between-node-and-ancestor](https://github.com/Mikreselasie/LeetCode-Solutions/tree/master/1092-maximum-difference-between-node-and-ancestor) |
 | [1093-recover-a-tree-from-preorder-traversal](https://github.com/Mikreselasie/LeetCode-Solutions/tree/master/1093-recover-a-tree-from-preorder-traversal) |
 | [1114-binary-search-tree-to-greater-sum-tree](https://github.com/Mikreselasie/LeetCode-Solutions/tree/master/1114-binary-search-tree-to-greater-sum-tree) |
+| [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/Mikreselasie/LeetCode-Solutions/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/Mikreselasie/LeetCode-Solutions/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [2347-count-nodes-equal-to-average-of-subtree](https://github.com/Mikreselasie/LeetCode-Solutions/tree/master/2347-count-nodes-equal-to-average-of-subtree) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/Mikreselasie/LeetCode-Solutions/tree/master/2493-reverse-odd-levels-of-binary-tree) |
