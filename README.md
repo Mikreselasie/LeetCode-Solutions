@@ -31,6 +31,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0217-contains-duplicate](https://github.com/Mikreselasie/LeetCode-Solutions/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/Mikreselasie/LeetCode-Solutions/tree/master/0229-majority-element-ii) |
 | [0238-product-of-array-except-self](https://github.com/Mikreselasie/LeetCode-Solutions/tree/master/0238-product-of-array-except-self) |
+| [0275-h-index-ii](https://github.com/Mikreselasie/LeetCode-Solutions/tree/master/0275-h-index-ii) |
 | [0283-move-zeroes](https://github.com/Mikreselasie/LeetCode-Solutions/tree/master/0283-move-zeroes) |
 | [0303-range-sum-query-immutable](https://github.com/Mikreselasie/LeetCode-Solutions/tree/master/0303-range-sum-query-immutable) |
 | [0304-range-sum-query-2d-immutable](https://github.com/Mikreselasie/LeetCode-Solutions/tree/master/0304-range-sum-query-2d-immutable) |
@@ -532,6 +533,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0074-search-a-2d-matrix](https://github.com/Mikreselasie/LeetCode-Solutions/tree/master/0074-search-a-2d-matrix) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Mikreselasie/LeetCode-Solutions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Mikreselasie/LeetCode-Solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0275-h-index-ii](https://github.com/Mikreselasie/LeetCode-Solutions/tree/master/0275-h-index-ii) |
 | [0278-first-bad-version](https://github.com/Mikreselasie/LeetCode-Solutions/tree/master/0278-first-bad-version) |
 | [0456-132-pattern](https://github.com/Mikreselasie/LeetCode-Solutions/tree/master/0456-132-pattern) |
 | [0475-heaters](https://github.com/Mikreselasie/LeetCode-Solutions/tree/master/0475-heaters) |
