@@ -9,11 +9,9 @@ class Employee:
 
 class Solution:
     def getImportance(self, employees: List['Employee'], id: int) -> int:
-        
         data = defaultdict(list)
-        for person in employees:
-            data[person.id].append(person.importance)
-            data[person.id].append(person.subordinates)
+        for person in employees: 
+            data[person.id] = (person.importance,person.subordinates)
 
         ans = 0
         def dfs(node):
