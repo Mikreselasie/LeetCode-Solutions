@@ -11,11 +11,10 @@ class Solution:
     def getImportance(self, employees: List['Employee'], id: int) -> int:
         
         data = defaultdict(list)
-        employ = []
         for person in employees:
             data[person.id].append(person.importance)
             data[person.id].append(person.subordinates)
-            employ.append(person.id)
+
         ans = 0
         def dfs(node):
             nonlocal ans
@@ -23,8 +22,6 @@ class Solution:
 
             for num in data[node][1]:
                 dfs(num)
-        for empl in employ:
-            if empl == id:
-                dfs(empl)
+        dfs(id)
         
         return ans
