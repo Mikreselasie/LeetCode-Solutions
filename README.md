@@ -85,6 +85,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1582-design-browser-history](https://github.com/Mikreselasie/LeetCode-Solutions/tree/master/1582-design-browser-history) |
 | [1603-running-sum-of-1d-array](https://github.com/Mikreselasie/LeetCode-Solutions/tree/master/1603-running-sum-of-1d-array) |
 | [1651-shuffle-string](https://github.com/Mikreselasie/LeetCode-Solutions/tree/master/1651-shuffle-string) |
+| [1656-count-good-triplets](https://github.com/Mikreselasie/LeetCode-Solutions/tree/master/1656-count-good-triplets) |
 | [1675-magnetic-force-between-two-balls](https://github.com/Mikreselasie/LeetCode-Solutions/tree/master/1675-magnetic-force-between-two-balls) |
 | [1683-maximum-number-of-coins-you-can-get](https://github.com/Mikreselasie/LeetCode-Solutions/tree/master/1683-maximum-number-of-coins-you-can-get) |
 | [1695-maximum-sum-obtained-of-any-permutation](https://github.com/Mikreselasie/LeetCode-Solutions/tree/master/1695-maximum-sum-obtained-of-any-permutation) |
@@ -831,6 +832,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Enumeration
 |  |
 | ------- |
+| [1656-count-good-triplets](https://github.com/Mikreselasie/LeetCode-Solutions/tree/master/1656-count-good-triplets) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/Mikreselasie/LeetCode-Solutions/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2998-count-symmetric-integers](https://github.com/Mikreselasie/LeetCode-Solutions/tree/master/2998-count-symmetric-integers) |
 | [3548-find-the-count-of-good-integers](https://github.com/Mikreselasie/LeetCode-Solutions/tree/master/3548-find-the-count-of-good-integers) |
