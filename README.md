@@ -105,6 +105,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/Mikreselasie/LeetCode-Solutions/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2210-find-target-indices-after-sorting-array](https://github.com/Mikreselasie/LeetCode-Solutions/tree/master/2210-find-target-indices-after-sorting-array) |
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/Mikreselasie/LeetCode-Solutions/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
+| [2249-count-the-hidden-sequences](https://github.com/Mikreselasie/LeetCode-Solutions/tree/master/2249-count-the-hidden-sequences) |
 | [2308-divide-array-into-equal-pairs](https://github.com/Mikreselasie/LeetCode-Solutions/tree/master/2308-divide-array-into-equal-pairs) |
 | [2421-maximum-number-of-pairs-in-array](https://github.com/Mikreselasie/LeetCode-Solutions/tree/master/2421-maximum-number-of-pairs-in-array) |
 | [2448-count-number-of-bad-pairs](https://github.com/Mikreselasie/LeetCode-Solutions/tree/master/2448-count-number-of-bad-pairs) |
@@ -634,6 +635,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/Mikreselasie/LeetCode-Solutions/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 | [1603-running-sum-of-1d-array](https://github.com/Mikreselasie/LeetCode-Solutions/tree/master/1603-running-sum-of-1d-array) |
 | [1695-maximum-sum-obtained-of-any-permutation](https://github.com/Mikreselasie/LeetCode-Solutions/tree/master/1695-maximum-sum-obtained-of-any-permutation) |
+| [2249-count-the-hidden-sequences](https://github.com/Mikreselasie/LeetCode-Solutions/tree/master/2249-count-the-hidden-sequences) |
 | [2465-shifting-letters-ii](https://github.com/Mikreselasie/LeetCode-Solutions/tree/master/2465-shifting-letters-ii) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/Mikreselasie/LeetCode-Solutions/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 | [3643-zero-array-transformation-ii](https://github.com/Mikreselasie/LeetCode-Solutions/tree/master/3643-zero-array-transformation-ii) |
