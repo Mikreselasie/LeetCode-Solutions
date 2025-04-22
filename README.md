@@ -74,6 +74,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1016-subarray-sums-divisible-by-k](https://github.com/Mikreselasie/LeetCode-Solutions/tree/master/1016-subarray-sums-divisible-by-k) |
 | [1027-sum-of-even-numbers-after-queries](https://github.com/Mikreselasie/LeetCode-Solutions/tree/master/1027-sum-of-even-numbers-after-queries) |
 | [1028-interval-list-intersections](https://github.com/Mikreselasie/LeetCode-Solutions/tree/master/1028-interval-list-intersections) |
+| [1036-rotting-oranges](https://github.com/Mikreselasie/LeetCode-Solutions/tree/master/1036-rotting-oranges) |
 | [1046-max-consecutive-ones-iii](https://github.com/Mikreselasie/LeetCode-Solutions/tree/master/1046-max-consecutive-ones-iii) |
 | [1112-find-words-that-can-be-formed-by-characters](https://github.com/Mikreselasie/LeetCode-Solutions/tree/master/1112-find-words-that-can-be-formed-by-characters) |
 | [1354-find-players-with-zero-or-one-losses](https://github.com/Mikreselasie/LeetCode-Solutions/tree/master/1354-find-players-with-zero-or-one-losses) |
@@ -492,6 +493,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0695-max-area-of-island](https://github.com/Mikreselasie/LeetCode-Solutions/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/Mikreselasie/LeetCode-Solutions/tree/master/0733-flood-fill) |
 | [0898-transpose-matrix](https://github.com/Mikreselasie/LeetCode-Solutions/tree/master/0898-transpose-matrix) |
+| [1036-rotting-oranges](https://github.com/Mikreselasie/LeetCode-Solutions/tree/master/1036-rotting-oranges) |
 | [1791-richest-customer-wealth](https://github.com/Mikreselasie/LeetCode-Solutions/tree/master/1791-richest-customer-wealth) |
 | [2015-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/Mikreselasie/LeetCode-Solutions/tree/master/2015-determine-whether-matrix-can-be-obtained-by-rotation) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/Mikreselasie/LeetCode-Solutions/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
@@ -765,6 +767,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0695-max-area-of-island](https://github.com/Mikreselasie/LeetCode-Solutions/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/Mikreselasie/LeetCode-Solutions/tree/master/0733-flood-fill) |
 | [1005-univalued-binary-tree](https://github.com/Mikreselasie/LeetCode-Solutions/tree/master/1005-univalued-binary-tree) |
+| [1036-rotting-oranges](https://github.com/Mikreselasie/LeetCode-Solutions/tree/master/1036-rotting-oranges) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/Mikreselasie/LeetCode-Solutions/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/Mikreselasie/LeetCode-Solutions/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [2121-find-if-path-exists-in-graph](https://github.com/Mikreselasie/LeetCode-Solutions/tree/master/2121-find-if-path-exists-in-graph) |
