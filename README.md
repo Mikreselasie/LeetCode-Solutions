@@ -67,6 +67,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0917-boats-to-save-people](https://github.com/Mikreselasie/LeetCode-Solutions/tree/master/0917-boats-to-save-people) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/Mikreselasie/LeetCode-Solutions/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [0943-sum-of-subarray-minimums](https://github.com/Mikreselasie/LeetCode-Solutions/tree/master/0943-sum-of-subarray-minimums) |
+| [0945-snakes-and-ladders](https://github.com/Mikreselasie/LeetCode-Solutions/tree/master/0945-snakes-and-ladders) |
 | [0948-sort-an-array](https://github.com/Mikreselasie/LeetCode-Solutions/tree/master/0948-sort-an-array) |
 | [0966-binary-subarrays-with-sum](https://github.com/Mikreselasie/LeetCode-Solutions/tree/master/0966-binary-subarrays-with-sum) |
 | [0987-reveal-cards-in-increasing-order](https://github.com/Mikreselasie/LeetCode-Solutions/tree/master/0987-reveal-cards-in-increasing-order) |
@@ -498,6 +499,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0695-max-area-of-island](https://github.com/Mikreselasie/LeetCode-Solutions/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/Mikreselasie/LeetCode-Solutions/tree/master/0733-flood-fill) |
 | [0898-transpose-matrix](https://github.com/Mikreselasie/LeetCode-Solutions/tree/master/0898-transpose-matrix) |
+| [0945-snakes-and-ladders](https://github.com/Mikreselasie/LeetCode-Solutions/tree/master/0945-snakes-and-ladders) |
 | [1036-rotting-oranges](https://github.com/Mikreselasie/LeetCode-Solutions/tree/master/1036-rotting-oranges) |
 | [1791-richest-customer-wealth](https://github.com/Mikreselasie/LeetCode-Solutions/tree/master/1791-richest-customer-wealth) |
 | [2015-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/Mikreselasie/LeetCode-Solutions/tree/master/2015-determine-whether-matrix-can-be-obtained-by-rotation) |
@@ -777,6 +779,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0690-employee-importance](https://github.com/Mikreselasie/LeetCode-Solutions/tree/master/0690-employee-importance) |
 | [0695-max-area-of-island](https://github.com/Mikreselasie/LeetCode-Solutions/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/Mikreselasie/LeetCode-Solutions/tree/master/0733-flood-fill) |
+| [0945-snakes-and-ladders](https://github.com/Mikreselasie/LeetCode-Solutions/tree/master/0945-snakes-and-ladders) |
 | [1005-univalued-binary-tree](https://github.com/Mikreselasie/LeetCode-Solutions/tree/master/1005-univalued-binary-tree) |
 | [1036-rotting-oranges](https://github.com/Mikreselasie/LeetCode-Solutions/tree/master/1036-rotting-oranges) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/Mikreselasie/LeetCode-Solutions/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
