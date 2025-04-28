@@ -110,6 +110,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/Mikreselasie/LeetCode-Solutions/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 | [2249-count-the-hidden-sequences](https://github.com/Mikreselasie/LeetCode-Solutions/tree/master/2249-count-the-hidden-sequences) |
 | [2308-divide-array-into-equal-pairs](https://github.com/Mikreselasie/LeetCode-Solutions/tree/master/2308-divide-array-into-equal-pairs) |
+| [2394-count-subarrays-with-score-less-than-k](https://github.com/Mikreselasie/LeetCode-Solutions/tree/master/2394-count-subarrays-with-score-less-than-k) |
 | [2421-maximum-number-of-pairs-in-array](https://github.com/Mikreselasie/LeetCode-Solutions/tree/master/2421-maximum-number-of-pairs-in-array) |
 | [2448-count-number-of-bad-pairs](https://github.com/Mikreselasie/LeetCode-Solutions/tree/master/2448-count-number-of-bad-pairs) |
 | [2465-shifting-letters-ii](https://github.com/Mikreselasie/LeetCode-Solutions/tree/master/2465-shifting-letters-ii) |
@@ -592,6 +593,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1046-max-consecutive-ones-iii](https://github.com/Mikreselasie/LeetCode-Solutions/tree/master/1046-max-consecutive-ones-iii) |
 | [1675-magnetic-force-between-two-balls](https://github.com/Mikreselasie/LeetCode-Solutions/tree/master/1675-magnetic-force-between-two-balls) |
 | [2210-find-target-indices-after-sorting-array](https://github.com/Mikreselasie/LeetCode-Solutions/tree/master/2210-find-target-indices-after-sorting-array) |
+| [2394-count-subarrays-with-score-less-than-k](https://github.com/Mikreselasie/LeetCode-Solutions/tree/master/2394-count-subarrays-with-score-less-than-k) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Mikreselasie/LeetCode-Solutions/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [2690-house-robber-iv](https://github.com/Mikreselasie/LeetCode-Solutions/tree/master/2690-house-robber-iv) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/Mikreselasie/LeetCode-Solutions/tree/master/2699-count-the-number-of-fair-pairs) |
@@ -627,6 +629,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1046-max-consecutive-ones-iii](https://github.com/Mikreselasie/LeetCode-Solutions/tree/master/1046-max-consecutive-ones-iii) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/Mikreselasie/LeetCode-Solutions/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 | [1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/Mikreselasie/LeetCode-Solutions/tree/master/1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
+| [2394-count-subarrays-with-score-less-than-k](https://github.com/Mikreselasie/LeetCode-Solutions/tree/master/2394-count-subarrays-with-score-less-than-k) |
 | [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/Mikreselasie/LeetCode-Solutions/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
 | [2478-longest-nice-subarray](https://github.com/Mikreselasie/LeetCode-Solutions/tree/master/2478-longest-nice-subarray) |
 | [2527-count-subarrays-with-fixed-bounds](https://github.com/Mikreselasie/LeetCode-Solutions/tree/master/2527-count-subarrays-with-fixed-bounds) |
@@ -651,6 +654,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1603-running-sum-of-1d-array](https://github.com/Mikreselasie/LeetCode-Solutions/tree/master/1603-running-sum-of-1d-array) |
 | [1695-maximum-sum-obtained-of-any-permutation](https://github.com/Mikreselasie/LeetCode-Solutions/tree/master/1695-maximum-sum-obtained-of-any-permutation) |
 | [2249-count-the-hidden-sequences](https://github.com/Mikreselasie/LeetCode-Solutions/tree/master/2249-count-the-hidden-sequences) |
+| [2394-count-subarrays-with-score-less-than-k](https://github.com/Mikreselasie/LeetCode-Solutions/tree/master/2394-count-subarrays-with-score-less-than-k) |
 | [2465-shifting-letters-ii](https://github.com/Mikreselasie/LeetCode-Solutions/tree/master/2465-shifting-letters-ii) |
 | [2915-count-of-interesting-subarrays](https://github.com/Mikreselasie/LeetCode-Solutions/tree/master/2915-count-of-interesting-subarrays) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/Mikreselasie/LeetCode-Solutions/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
