@@ -6,11 +6,13 @@ class Solution:
 
         for right in range(len(nums)):
             running += nums[right]
-            while running*(right-left+1) >= k:
-                running -= nums[left]
+            while running * (right-left+1) >= k:
+                running -= nums[left] 
                 left += 1
+            
             ans += right - left + 1
         
         return ans
+
         
         
