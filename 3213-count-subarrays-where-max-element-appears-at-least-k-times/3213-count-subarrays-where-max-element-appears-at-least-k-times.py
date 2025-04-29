@@ -5,11 +5,12 @@ class Solution:
         cnt = 0
         ans = 0
 
-        for i in range(len(nums)):
-            if nums[i] == maxNo : cnt += 1
-            while cnt >= k:
+        for right in range(len(nums)):
+            if nums[right] == maxNo : cnt += 1
+
+            while cnt >= k: 
                 if nums[left] == maxNo : cnt -= 1
                 left += 1
-                ans += len(nums) - i
+                ans += len(nums) - right
         return ans
         
