@@ -773,6 +773,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0695-max-area-of-island](https://github.com/Mikreselasie/LeetCode-Solutions/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/Mikreselasie/LeetCode-Solutions/tree/master/0733-flood-fill) |
 | [0801-is-graph-bipartite](https://github.com/Mikreselasie/LeetCode-Solutions/tree/master/0801-is-graph-bipartite) |
+| [0820-find-eventual-safe-states](https://github.com/Mikreselasie/LeetCode-Solutions/tree/master/0820-find-eventual-safe-states) |
 | [0922-possible-bipartition](https://github.com/Mikreselasie/LeetCode-Solutions/tree/master/0922-possible-bipartition) |
 | [1005-univalued-binary-tree](https://github.com/Mikreselasie/LeetCode-Solutions/tree/master/1005-univalued-binary-tree) |
 | [1092-maximum-difference-between-node-and-ancestor](https://github.com/Mikreselasie/LeetCode-Solutions/tree/master/1092-maximum-difference-between-node-and-ancestor) |
@@ -798,6 +799,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0695-max-area-of-island](https://github.com/Mikreselasie/LeetCode-Solutions/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/Mikreselasie/LeetCode-Solutions/tree/master/0733-flood-fill) |
 | [0801-is-graph-bipartite](https://github.com/Mikreselasie/LeetCode-Solutions/tree/master/0801-is-graph-bipartite) |
+| [0820-find-eventual-safe-states](https://github.com/Mikreselasie/LeetCode-Solutions/tree/master/0820-find-eventual-safe-states) |
 | [0922-possible-bipartition](https://github.com/Mikreselasie/LeetCode-Solutions/tree/master/0922-possible-bipartition) |
 | [0945-snakes-and-ladders](https://github.com/Mikreselasie/LeetCode-Solutions/tree/master/0945-snakes-and-ladders) |
 | [1005-univalued-binary-tree](https://github.com/Mikreselasie/LeetCode-Solutions/tree/master/1005-univalued-binary-tree) |
@@ -869,6 +871,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0210-course-schedule-ii](https://github.com/Mikreselasie/LeetCode-Solutions/tree/master/0210-course-schedule-ii) |
 | [0547-number-of-provinces](https://github.com/Mikreselasie/LeetCode-Solutions/tree/master/0547-number-of-provinces) |
 | [0801-is-graph-bipartite](https://github.com/Mikreselasie/LeetCode-Solutions/tree/master/0801-is-graph-bipartite) |
+| [0820-find-eventual-safe-states](https://github.com/Mikreselasie/LeetCode-Solutions/tree/master/0820-find-eventual-safe-states) |
 | [0922-possible-bipartition](https://github.com/Mikreselasie/LeetCode-Solutions/tree/master/0922-possible-bipartition) |
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/Mikreselasie/LeetCode-Solutions/tree/master/2090-number-of-ways-to-arrive-at-destination) |
 | [2121-find-if-path-exists-in-graph](https://github.com/Mikreselasie/LeetCode-Solutions/tree/master/2121-find-if-path-exists-in-graph) |
@@ -884,6 +887,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0207-course-schedule](https://github.com/Mikreselasie/LeetCode-Solutions/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/Mikreselasie/LeetCode-Solutions/tree/master/0210-course-schedule-ii) |
+| [0820-find-eventual-safe-states](https://github.com/Mikreselasie/LeetCode-Solutions/tree/master/0820-find-eventual-safe-states) |
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/Mikreselasie/LeetCode-Solutions/tree/master/2090-number-of-ways-to-arrive-at-destination) |
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/Mikreselasie/LeetCode-Solutions/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 ## Shortest Path
