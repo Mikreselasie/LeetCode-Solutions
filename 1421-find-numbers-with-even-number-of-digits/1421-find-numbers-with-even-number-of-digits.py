@@ -4,8 +4,11 @@ class Solution:
 
         for num in nums:
             digits = 0
-            while num: 
+            while num:
                 digits += 1
-                num //= 10
-            if not digits%2: cnt += 1
+                num //=10
+            if digits%2 == 0: cnt += 1
+        
         return cnt
+
+        
