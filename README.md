@@ -282,6 +282,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/Mikreselasie/LeetCode-Solutions/tree/master/0054-spiral-matrix) |
+| [0067-add-binary](https://github.com/Mikreselasie/LeetCode-Solutions/tree/master/0067-add-binary) |
 | [0415-add-strings](https://github.com/Mikreselasie/LeetCode-Solutions/tree/master/0415-add-strings) |
 | [0498-diagonal-traverse](https://github.com/Mikreselasie/LeetCode-Solutions/tree/master/0498-diagonal-traverse) |
 | [0874-backspace-string-compare](https://github.com/Mikreselasie/LeetCode-Solutions/tree/master/0874-backspace-string-compare) |
@@ -308,6 +309,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0020-valid-parentheses](https://github.com/Mikreselasie/LeetCode-Solutions/tree/master/0020-valid-parentheses) |
 | [0038-count-and-say](https://github.com/Mikreselasie/LeetCode-Solutions/tree/master/0038-count-and-say) |
 | [0049-group-anagrams](https://github.com/Mikreselasie/LeetCode-Solutions/tree/master/0049-group-anagrams) |
+| [0067-add-binary](https://github.com/Mikreselasie/LeetCode-Solutions/tree/master/0067-add-binary) |
 | [0071-simplify-path](https://github.com/Mikreselasie/LeetCode-Solutions/tree/master/0071-simplify-path) |
 | [0076-minimum-window-substring](https://github.com/Mikreselasie/LeetCode-Solutions/tree/master/0076-minimum-window-substring) |
 | [0093-restore-ip-addresses](https://github.com/Mikreselasie/LeetCode-Solutions/tree/master/0093-restore-ip-addresses) |
@@ -408,6 +410,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0048-rotate-image](https://github.com/Mikreselasie/LeetCode-Solutions/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/Mikreselasie/LeetCode-Solutions/tree/master/0050-powx-n) |
 | [0066-plus-one](https://github.com/Mikreselasie/LeetCode-Solutions/tree/master/0066-plus-one) |
+| [0067-add-binary](https://github.com/Mikreselasie/LeetCode-Solutions/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/Mikreselasie/LeetCode-Solutions/tree/master/0069-sqrtx) |
 | [0168-excel-sheet-column-title](https://github.com/Mikreselasie/LeetCode-Solutions/tree/master/0168-excel-sheet-column-title) |
 | [0172-factorial-trailing-zeroes](https://github.com/Mikreselasie/LeetCode-Solutions/tree/master/0172-factorial-trailing-zeroes) |
@@ -443,6 +446,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Bit Manipulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/Mikreselasie/LeetCode-Solutions/tree/master/0067-add-binary) |
 | [0078-subsets](https://github.com/Mikreselasie/LeetCode-Solutions/tree/master/0078-subsets) |
 | [0231-power-of-two](https://github.com/Mikreselasie/LeetCode-Solutions/tree/master/0231-power-of-two) |
 | [0342-power-of-four](https://github.com/Mikreselasie/LeetCode-Solutions/tree/master/0342-power-of-four) |
