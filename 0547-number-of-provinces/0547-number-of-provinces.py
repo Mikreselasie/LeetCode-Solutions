@@ -1,26 +1,25 @@
+from typing import List
+
 class Solution:
     def findCircleNum(self, isConnected: List[List[int]]) -> int:
-        adj_mtrx = defaultdict(list)
         n = len(isConnected)
+        parent = [i for i in range(n)]
+
+        def find(i):
+            if parent[i] != i:
+                parent[i] = find(parent[i])  # Path compression
+            return parent[i]
+
+        def union(i, j):
+            root_i = find(i)
+            root_j = find(j)
+            if root_i != root_j:
+                parent[root_j] = root_i  # Union
 
         for i in range(n):
-            for j in range(n):
+            for j in range(i+1, n):  # Only upper triangle to avoid double-processing
                 if isConnected[i][j] == 1:
-                    adj_mtrx[i].append(j)
-        visited = set()
-        def dfs(node):
-            if node in visited:
-                return
-            visited.add(node)
+                    union(i, j)
 
-            for val in adj_mtrx[node]:
-                if node != val:
-                    dfs(val)
-        cnt = 0
-        for num in range(n):
-            if num not in visited:
-                cnt += 1
-                dfs(num)
-        return cnt
-
-        
+        # Count unique roots
+        return len(set(find(i) for i in range(n)))
