@@ -147,6 +147,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/Mikreselasie/LeetCode-Solutions/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3621-minimum-operations-to-make-array-values-equal-to-k](https://github.com/Mikreselasie/LeetCode-Solutions/tree/master/3621-minimum-operations-to-make-array-values-equal-to-k) |
 | [3627-find-minimum-time-to-reach-last-room-i](https://github.com/Mikreselasie/LeetCode-Solutions/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
+| [3628-find-minimum-time-to-reach-last-room-ii](https://github.com/Mikreselasie/LeetCode-Solutions/tree/master/3628-find-minimum-time-to-reach-last-room-ii) |
 | [3643-zero-array-transformation-ii](https://github.com/Mikreselasie/LeetCode-Solutions/tree/master/3643-zero-array-transformation-ii) |
 | [3651-transformed-array](https://github.com/Mikreselasie/LeetCode-Solutions/tree/master/3651-transformed-array) |
 | [3656-minimum-number-of-operations-to-make-elements-in-array-distinct](https://github.com/Mikreselasie/LeetCode-Solutions/tree/master/3656-minimum-number-of-operations-to-make-elements-in-array-distinct) |
@@ -400,6 +401,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/Mikreselasie/LeetCode-Solutions/tree/master/2588-maximum-number-of-points-from-grid-queries) |
 | [3332-minimum-operations-to-exceed-threshold-value-ii](https://github.com/Mikreselasie/LeetCode-Solutions/tree/master/3332-minimum-operations-to-exceed-threshold-value-ii) |
 | [3627-find-minimum-time-to-reach-last-room-i](https://github.com/Mikreselasie/LeetCode-Solutions/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
+| [3628-find-minimum-time-to-reach-last-room-ii](https://github.com/Mikreselasie/LeetCode-Solutions/tree/master/3628-find-minimum-time-to-reach-last-room-ii) |
 ## Bucket Sort
 |  |
 | ------- |
@@ -534,6 +536,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2631-sort-the-students-by-their-kth-score](https://github.com/Mikreselasie/LeetCode-Solutions/tree/master/2631-sort-the-students-by-their-kth-score) |
 | [3227-find-missing-and-repeated-values](https://github.com/Mikreselasie/LeetCode-Solutions/tree/master/3227-find-missing-and-repeated-values) |
 | [3627-find-minimum-time-to-reach-last-room-i](https://github.com/Mikreselasie/LeetCode-Solutions/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
+| [3628-find-minimum-time-to-reach-last-room-ii](https://github.com/Mikreselasie/LeetCode-Solutions/tree/master/3628-find-minimum-time-to-reach-last-room-ii) |
 ## Design
 |  |
 | ------- |
@@ -911,6 +914,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3189-find-champion-ii](https://github.com/Mikreselasie/LeetCode-Solutions/tree/master/3189-find-champion-ii) |
 | [3348-minimum-cost-walk-in-weighted-graph](https://github.com/Mikreselasie/LeetCode-Solutions/tree/master/3348-minimum-cost-walk-in-weighted-graph) |
 | [3627-find-minimum-time-to-reach-last-room-i](https://github.com/Mikreselasie/LeetCode-Solutions/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
+| [3628-find-minimum-time-to-reach-last-room-ii](https://github.com/Mikreselasie/LeetCode-Solutions/tree/master/3628-find-minimum-time-to-reach-last-room-ii) |
 ## Bitmask
 |  |
 | ------- |
@@ -930,6 +934,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/Mikreselasie/LeetCode-Solutions/tree/master/2090-number-of-ways-to-arrive-at-destination) |
 | [3627-find-minimum-time-to-reach-last-room-i](https://github.com/Mikreselasie/LeetCode-Solutions/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
+| [3628-find-minimum-time-to-reach-last-room-ii](https://github.com/Mikreselasie/LeetCode-Solutions/tree/master/3628-find-minimum-time-to-reach-last-room-ii) |
 ## Interactive
 |  |
 | ------- |
