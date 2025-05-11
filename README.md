@@ -80,6 +80,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1049-minimum-domino-rotations-for-equal-row](https://github.com/Mikreselasie/LeetCode-Solutions/tree/master/1049-minimum-domino-rotations-for-equal-row) |
 | [1112-find-words-that-can-be-formed-by-characters](https://github.com/Mikreselasie/LeetCode-Solutions/tree/master/1112-find-words-that-can-be-formed-by-characters) |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/Mikreselasie/LeetCode-Solutions/tree/master/1227-number-of-equivalent-domino-pairs) |
+| [1293-three-consecutive-odds](https://github.com/Mikreselasie/LeetCode-Solutions/tree/master/1293-three-consecutive-odds) |
 | [1354-find-players-with-zero-or-one-losses](https://github.com/Mikreselasie/LeetCode-Solutions/tree/master/1354-find-players-with-zero-or-one-losses) |
 | [1364-tuple-with-same-product](https://github.com/Mikreselasie/LeetCode-Solutions/tree/master/1364-tuple-with-same-product) |
 | [1418-fair-distribution-of-cookies](https://github.com/Mikreselasie/LeetCode-Solutions/tree/master/1418-fair-distribution-of-cookies) |
