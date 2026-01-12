@@ -83,6 +83,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1049-minimum-domino-rotations-for-equal-row](https://github.com/Mikreselasie/LeetCode-Solutions/tree/master/1049-minimum-domino-rotations-for-equal-row) |
 | [1112-find-words-that-can-be-formed-by-characters](https://github.com/Mikreselasie/LeetCode-Solutions/tree/master/1112-find-words-that-can-be-formed-by-characters) |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/Mikreselasie/LeetCode-Solutions/tree/master/1227-number-of-equivalent-domino-pairs) |
+| [1266-minimum-time-visiting-all-points](https://github.com/Mikreselasie/LeetCode-Solutions/tree/master/1266-minimum-time-visiting-all-points) |
 | [1293-three-consecutive-odds](https://github.com/Mikreselasie/LeetCode-Solutions/tree/master/1293-three-consecutive-odds) |
 | [1354-find-players-with-zero-or-one-losses](https://github.com/Mikreselasie/LeetCode-Solutions/tree/master/1354-find-players-with-zero-or-one-losses) |
 | [1364-tuple-with-same-product](https://github.com/Mikreselasie/LeetCode-Solutions/tree/master/1364-tuple-with-same-product) |
@@ -450,6 +451,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0628-maximum-product-of-three-numbers](https://github.com/Mikreselasie/LeetCode-Solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [0633-sum-of-square-numbers](https://github.com/Mikreselasie/LeetCode-Solutions/tree/master/0633-sum-of-square-numbers) |
 | [0797-rabbits-in-forest](https://github.com/Mikreselasie/LeetCode-Solutions/tree/master/0797-rabbits-in-forest) |
+| [1266-minimum-time-visiting-all-points](https://github.com/Mikreselasie/LeetCode-Solutions/tree/master/1266-minimum-time-visiting-all-points) |
 | [1303-minimum-moves-to-reach-target-score](https://github.com/Mikreselasie/LeetCode-Solutions/tree/master/1303-minimum-moves-to-reach-target-score) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/Mikreselasie/LeetCode-Solutions/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1477-product-of-the-last-k-numbers](https://github.com/Mikreselasie/LeetCode-Solutions/tree/master/1477-product-of-the-last-k-numbers) |
@@ -994,4 +996,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [2415-count-the-number-of-ideal-arrays](https://github.com/Mikreselasie/LeetCode-Solutions/tree/master/2415-count-the-number-of-ideal-arrays) |
 | [2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1](https://github.com/Mikreselasie/LeetCode-Solutions/tree/master/2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1) |
+## Geometry
+|  |
+| ------- |
+| [1266-minimum-time-visiting-all-points](https://github.com/Mikreselasie/LeetCode-Solutions/tree/master/1266-minimum-time-visiting-all-points) |
 <!---LeetCode Topics End-->
