@@ -152,6 +152,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3372-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/Mikreselasie/LeetCode-Solutions/tree/master/3372-longest-strictly-increasing-or-strictly-decreasing-subarray) |
 | [3430-count-days-without-meetings](https://github.com/Mikreselasie/LeetCode-Solutions/tree/master/3430-count-days-without-meetings) |
 | [3453-separate-squares-i](https://github.com/Mikreselasie/LeetCode-Solutions/tree/master/3453-separate-squares-i) |
+| [3454-separate-squares-ii](https://github.com/Mikreselasie/LeetCode-Solutions/tree/master/3454-separate-squares-ii) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/Mikreselasie/LeetCode-Solutions/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 | [3483-alternating-groups-ii](https://github.com/Mikreselasie/LeetCode-Solutions/tree/master/3483-alternating-groups-ii) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/Mikreselasie/LeetCode-Solutions/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
@@ -653,6 +654,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2690-house-robber-iv](https://github.com/Mikreselasie/LeetCode-Solutions/tree/master/2690-house-robber-iv) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/Mikreselasie/LeetCode-Solutions/tree/master/2699-count-the-number-of-fair-pairs) |
 | [3453-separate-squares-i](https://github.com/Mikreselasie/LeetCode-Solutions/tree/master/3453-separate-squares-i) |
+| [3454-separate-squares-ii](https://github.com/Mikreselasie/LeetCode-Solutions/tree/master/3454-separate-squares-ii) |
 | [3643-zero-array-transformation-ii](https://github.com/Mikreselasie/LeetCode-Solutions/tree/master/3643-zero-array-transformation-ii) |
 ## Merge Sort
 |  |
@@ -763,6 +765,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [1028-interval-list-intersections](https://github.com/Mikreselasie/LeetCode-Solutions/tree/master/1028-interval-list-intersections) |
+| [3454-separate-squares-ii](https://github.com/Mikreselasie/LeetCode-Solutions/tree/master/3454-separate-squares-ii) |
 ## Linked List
 |  |
 | ------- |
@@ -1002,4 +1005,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [1266-minimum-time-visiting-all-points](https://github.com/Mikreselasie/LeetCode-Solutions/tree/master/1266-minimum-time-visiting-all-points) |
+## Segment Tree
+|  |
+| ------- |
+| [3454-separate-squares-ii](https://github.com/Mikreselasie/LeetCode-Solutions/tree/master/3454-separate-squares-ii) |
 <!---LeetCode Topics End-->
